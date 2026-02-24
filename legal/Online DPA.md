@@ -4,11 +4,11 @@
 
 **THIS DPA SHALL NOT APPLY TO THE EXTENT THAT** **CUSTOMERS WHO ACCESS AND USE THE SERVICES HAVE ESTABLISHED A SEPARATE, WRITTEN DATA PROTECTION AGREEMENT WHICH IS (I) CURRENT, (II) COMPLIANT WITH APPLICABLE REGULATIONS, AND (III) COVERS THE SPECIFIC PERSONAL DATA PROCESSING ACTIVITIES IN QUESTION.**
 
-This Data Processing Agreement is incorporated by reference into, and forms part of, the principal agreement that governs Customer\'s access to and use of the Services, including but not limited to the Terms of Service, a separate Master Services Agreement, or Service-specific Participation Agreement (the "[Main Agreement]{.underline}") between Trinsic Technologies, Inc., a Delaware corporation ("[Trinsic]{.underline}"), and the Customer agreeing to the Agreement. ("[Customer]{.underline}", or "[you]{.underline}").
+This Data Processing Agreement is incorporated by reference into, and forms part of, the principal agreement that governs Customer\'s access to and use of the Services, including but not limited to the Terms of Service, a separate Master Services Agreement, or Service-specific Participation Agreement (the "Main Agreement") between Trinsic Technologies, Inc., a Delaware corporation ("Trinsic"), and the Customer agreeing to the Agreement. ("Customer", or "you").
 
 **RECITALS**
 
-**WHEREAS**, Trinsic provides services (the "[Services]{.underline}") under the Main Agreement that involve the processing of End User Data (defined below) provided by or on behalf of the Customer and that are subject to applicable data protection laws.
+**WHEREAS**, Trinsic provides services (the "Services") under the Main Agreement that involve the processing of End User Data (defined below) provided by or on behalf of the Customer and that are subject to applicable data protection laws.
 
 **WHEREAS**, this DPA supplements the Main Agreement and establishes additional terms governing Trinsic's processing of End User Data.
 
@@ -18,35 +18,35 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 1.1 **Definitions.** The capitalized terms used in this DPA shall have the meanings set forth in this Section or the Main Agreement. Key defined terms include, but are not limited to:
 
--   "[Business Purpose]{.underline}" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
+-   "Business Purpose" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
 
--   "[CCPA]{.underline}" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("[CPRA]{.underline}").
+-   "CCPA" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("CPRA").
 
--   "[Data Protection Laws and Regulations]{.underline}" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
+-   "Data Protection Laws and Regulations" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
 
--   "[End User]{.underline}" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
+-   "End User" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
 
--   "[End User Data]{.underline}" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
+-   "End User Data" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
 
--   "[EU GDPR]{.underline}" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+-   "EU GDPR" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 
--   "[LGPD]{.underline}" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
+-   "LGPD" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
 
--   "[Security Breach]{.underline}" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
+-   "Security Breach" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
 
--   "[Standard Contractual Clauses (SCCs)]{.underline}" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
+-   "Standard Contractual Clauses (SCCs)" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
 
--   "[Sub-Processor]{.underline}" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
+-   "Sub-Processor" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
 
--   "[Swiss DP Laws]{.underline}" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
+-   "Swiss DP Laws" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
 
--   "[Transfer]{.underline}" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
+-   "Transfer" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
 
--   "[UK GDPR]{.underline}" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom.  In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
+-   "UK GDPR" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom.  In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
 
--   "[UK Addendum]{.underline}" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
+-   "UK Addendum" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
 
-1.2 **Other Terms.** Terms such as "[controller]{.underline}," "[data]{.underline} [subject]{.underline}," "[personal data]{.underline}", "[processor]{.underline}," and "[processing]{.underline}" or similar terms shall be construed according to applicable Data Protection Laws and Regulations or, in the absence thereof, the EU GDPR.
+1.2 **Other Terms.** Terms such as "controller," "data subject," "personal data", "processor," and "processing" or similar terms shall be construed according to applicable Data Protection Laws and Regulations or, in the absence thereof, the EU GDPR.
 
 1.3 **Interpretation.** This DPA is incorporated by reference into, and forms part of the Main Agreement. Interpretations and defined terms set forth in the Main Agreement apply to the interpretation of this DPA.
 
@@ -60,17 +60,17 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 2.2 **Authorization to Process.** Trinsic is authorized by the Customer to process End User Data solely:
 
-> \(a\) as necessary to provide the Services in accordance with the Main Agreement and to comply with Data Protection Laws and Regulations;
+> (a) as necessary to provide the Services in accordance with the Main Agreement and to comply with Data Protection Laws and Regulations;
 >
-> \(b\) to transfer End User Data to sub-processors and services providers as required and allowed in this DPA;
+> (b) to transfer End User Data to sub-processors and services providers as required and allowed in this DPA;
 >
-> \(c\) As reasonably necessary to comply with any other directions or instructions provided by Customer.
+> (c) As reasonably necessary to comply with any other directions or instructions provided by Customer.
 
 2.3 **Categories of Data.** Annex A outlines the categories of data subjects and the End User Data processed.
 
 **3. TERM**
 
-3.1 **Term**. This DPA becomes effective on the date the Customer agrees to the Main Agreement and shall remain in force until the expiration or termination of the Main Agreement. ("[Term]{.underline}").
+3.1 **Term**. This DPA becomes effective on the date the Customer agrees to the Main Agreement and shall remain in force until the expiration or termination of the Main Agreement. ("Term").
 
 **4. TRINSIC'S OBLIGATIONS**
 
@@ -86,11 +86,11 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 (a) Trinsic will ensure that when engaging with Sub-Processors for the purposes of delivering the Services, there is a written contract in place that will provide at least the same level of protection for End User Data as set out in this DPA (to the extent applicable by relevant regulations and to the nature of the Services provided by the relevant Sub-Processor).
 
-(b) Trinsic uses Sub-Processors to support the delivery of the Services. A current list of platform Sub-Processors is published by Trinsic at this [[link]{.underline}](https://trinsic.id/subprocessors). Trinsic may add or replace Sub-Processors from time to time and will notify Customer of any such changes. Continued use of the Services after such notice constitutes acceptance of the new Sub-Processor.
+(b) Trinsic uses Sub-Processors to support the delivery of the Services. A current list of platform Sub-Processors is published by Trinsic at this [link](https://trinsic.id/subprocessors). Trinsic may add or replace Sub-Processors from time to time and will notify Customer of any such changes. Continued use of the Services after such notice constitutes acceptance of the new Sub-Processor.
 
-(c) Certain Sub-Processors used by Trinsic in connection with specific ID Providers available through the Services are not listed publicly for security and confidentiality reasons and may differ depending on Customer's use of the Services. A current list of such Sub-Processors will be provided upon request by emailing [[legal\@trinsic.id]{.underline}](mailto:legal@trinsic.id).
+(c) Certain Sub-Processors used by Trinsic in connection with specific ID Providers available through the Services are not listed publicly for security and confidentiality reasons and may differ depending on Customer's use of the Services. A current list of such Sub-Processors will be provided upon request by emailing [legal@trinsic.id](mailto:legal@trinsic.id).
 
-4.6 **Security.** Trinsic shall implement and maintain appropriate technical and organizational measures, taking into account the state of the art, the costs of implementation, and the nature, scope, context and purposes of processing, as well as the risks to the rights and freedoms of natural persons. A description of the current measures published at this [[link]{.underline}](https://trinsic.id/toms) or on our [[security page]{.underline}](https://security.trinsic.id/). Trinsic may update such measures from time to time, provided that the updates do not materially reduce the overall level of security.
+4.6 **Security.** Trinsic shall implement and maintain appropriate technical and organizational measures, taking into account the state of the art, the costs of implementation, and the nature, scope, context and purposes of processing, as well as the risks to the rights and freedoms of natural persons. A description of the current measures published at this [link](https://trinsic.id/toms) or on our [security page](https://security.trinsic.id/). Trinsic may update such measures from time to time, provided that the updates do not materially reduce the overall level of security.
 
 4.7 **Audit Rights.** Upon written request, Trinsic shall make available to Customer all information reasonably necessary to demonstrate compliance with this DPA and, where required by Data Protection Laws and Regulations, allow for (and contribute to) audits, including inspections conducted by Customer or another auditor under the instruction of the Customer for the same purposes of demonstrating compliance with obligations set out in this DPA. Such audit shall be at Customer's sole expense, conducted during normal business hours, and in a manner that does not disrupt Trinsic's business operations.
 
@@ -116,7 +116,7 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 7.3.2 **EU SCCs**. Where EU SCCs are used, the applicable module shall be incorporated by reference to this DPA, and the following shall apply:
 
-(a) Annex A to this DPA shall be deemed Annex I to the EU SCCs; the Technical and Organizational measures published [[here]{.underline}](https://trinsic.id/toms/) shall be deemed Annex II; and the List of Sub-Processors published [[here]{.underline}](https://trinsic.id/subprocessors) shall be deemed Annex III.
+(a) Annex A to this DPA shall be deemed Annex I to the EU SCCs; the Technical and Organizational measures published [here](https://trinsic.id/toms/) shall be deemed Annex II; and the List of Sub-Processors published [here](https://trinsic.id/subprocessors) shall be deemed Annex III.
 
 (b) By agreeing to the Main Agreement, each party is deemed to have executed the SCCs (including their annexes and appendices) as of the date the Customer agreed to the Main Agreement;
 
@@ -136,15 +136,15 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 7.3.4 **Swiss DP Laws**. Where the Transfer is subject to the Swiss DP Laws, the EU SCCs, together with the Annexes defined in Section 7.3.2 (a), shall be read in accordance with this Section. To the extent the Swiss DP Laws are applicable to a data export under the EU SCCs set forth in this DPA, the Parties agree on the following amendments to the EU SCCs and Annexes.
 
-> \(a\) The term "Member State" according to Clause 18 (c) of the EU SCCs shall not be interpreted in a such a way that data subjects in Switzerland are excluded from exercising their rights, if any, at their place of habitual residence;
+> (a) The term "Member State" according to Clause 18 (c) of the EU SCCs shall not be interpreted in a such a way that data subjects in Switzerland are excluded from exercising their rights, if any, at their place of habitual residence;
 >
-> \(b\) The supervisory authority pursuant to Clause 13 of the EU SCCs is the Swiss Federal Data Protection and Information Commissioner;
+> (b) The supervisory authority pursuant to Clause 13 of the EU SCCs is the Swiss Federal Data Protection and Information Commissioner;
 
-\(c\) The law applicable to the EU SCCs pursuant to Clause 17 of the EU SCCs shall be Swiss DP Laws;
+(c) The law applicable to the EU SCCs pursuant to Clause 17 of the EU SCCs shall be Swiss DP Laws;
 
-> \(d\) The place of jurisdiction under Clause 18 (b) of the EU SCCs shall be the courts of the city of Zurich; and
+> (d) The place of jurisdiction under Clause 18 (b) of the EU SCCs shall be the courts of the city of Zurich; and
 >
-> \(e\) Where the EU SCCs include references to the EU GDPR, such references shall be understood as references to the Swiss DP Laws.
+> (e) Where the EU SCCs include references to the EU GDPR, such references shall be understood as references to the Swiss DP Laws.
 
 **8. CALIFORNIA REQUIREMENTS**
 
@@ -164,9 +164,9 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 9.3 **Onward Transfers**. Trinsic shall not transfer or disclose End User Data to any third party (except authorized sub-processors, or as may be required by law) without Customer's instruction or consent. The parties agree that any cross-border transfer of End User Data from Brazil to another country shall be governed by an approved transfer mechanism under LGPD Art. 33, namely:
 
-> \(a\) An adequacy decision by ANPD recognizing the destination country as having an adequate level of protection (LGPD Art. 33(I)), or
+> (a) An adequacy decision by ANPD recognizing the destination country as having an adequate level of protection (LGPD Art. 33(I)), or
 >
-> \(b\) The SCCs attached hereto as Annex B which, if relied on as the approved transfer mechanism, form an integral part of this DPA. In accordance with ANPD Resolution CD/ANPD No. 4/2023 and the ANPD's International Transfer Regulation, the SCCs shall be executed without modification.
+> (b) The SCCs attached hereto as Annex B which, if relied on as the approved transfer mechanism, form an integral part of this DPA. In accordance with ANPD Resolution CD/ANPD No. 4/2023 and the ANPD's International Transfer Regulation, the SCCs shall be executed without modification.
 
 9.4 **Scope of SCCs**. If Trinsic engages sub-processors located outside Brazil, it shall ensure that those sub-processors accede to the SCCs either through a "docking" mechanism (SCC Clause 9) or by signing equivalent contractual clauses approved by ANPD. Trinsic agrees that data subjects are third-party beneficiaries of the SCCs and can enforce their rights as provided therein. Customer acknowledges that Trinsic is acting at its direction, and that it remains ultimately responsible under LGPD for compliance, for responding to the ANPD, and for ensuring data subject rights are respected, even when the SCCs designate certain tasks to Trinsic.
 
@@ -196,29 +196,31 @@ The applicable description of Processing below will depend on whether the Custom
 
 \[THIS TABLE IS APPLICABLE IF CUSTOMER IS A DATA CONTROLLER\]
 
-  **Data Controller**                    The Customer specified in the Main Agreement and DPA
-  -------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Data Processor**                     Trinsic
-  **Import/Export**                      Customer is the Data Exporter. Trinsic is the Data Importer.
-  **Categories of data subjects**        End Users of Customer
-  **Categories of personal data**        Name, contact details (phone number, email address), date of birth, full address, document or ID number (e.g. driver's license, voter ID, passport, national ID numbers), selfie
-  **Nature and purpose of processing**   Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely to verify and/or enrich the personal data transferred to Trinsic using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data.
-  **Frequency of processing**            Continuous
-  **Duration of processing**             Personal data will be retained in accordance with Trinsic\'s retention policies (which are configured by Customer through Trinsic's Services), and in any case for only as long as is required to meet Trinsic\'s legal, regulatory and operational requirements and as necessary to perform services.
-  **Competent supervisory authority**    The competent supervisory authority/ies applicable to Data Exporter as notified to Data Importer in accordance with Section 11 (Governing Law) of this DPA.
+| Data Controller | The Customer specified in the Main Agreement and DPA |
+| --- | --- |
+| **Data Processor** | Trinsic |
+| **Import/Export** | Customer is the Data Exporter. Trinsic is the Data Importer. |
+| **Categories of data subjects** | End Users of Customer |
+| **Categories of personal data** | Name, contact details (phone number, email address), date of birth, full address, document or ID number (e.g. driver's license, voter ID, passport, national ID numbers), selfie |
+| **Nature and purpose of processing** | Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely to verify and/or enrich the personal data transferred to Trinsic using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data. |
+| **Frequency of processing** | Continuous |
+| **Duration of processing** | Personal data will be retained in accordance with Trinsic\'s retention policies (which are configured by Customer through Trinsic's Services), and in any case for only as long as is required to meet Trinsic\'s legal, regulatory and operational requirements and as necessary to perform services. |
+| **Competent supervisory authority** | The competent supervisory authority/ies applicable to Data Exporter as notified to Data Importer in accordance with Section 11 (Governing Law) of this DPA. |
+
 
 \[THIS TABLE IS APPLICABLE IF CUSTOMER IS A DATA PROCESSOR\]
 
-  **Data Processor**                     The Customer specified in the Main Agreement and DPA
-  -------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Sub-Processor**                      Trinsic
-  **Import/Export**                      Customer is the Data Exporter. Trinsic is the Data Importer.
-  **Categories of data subjects**        Data subjects are End Users who are engaging with an End Customer who requires the End User to verify certain personal data through the Services.
-  **Categories of personal data**        Name, contact details (phone number, email address), date of birth, full address, document or ID number (e.g. driver's license, voter ID, passport, national ID numbers), selfie
-  **Nature and purpose of processing**   Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely, to verify and/or enrich the personal data transferred to Trinsic using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data.
-  **Frequency of processing**            Continuous
-  **Duration of processing**             Personal data will be retained in accordance with Trinsic\'s retention policies (which are configured by Customer through Trinsic's Services), and in any case for only as long as is required to meet Trinsic\'s legal, regulatory and operational requirements and as necessary to perform services.
-  **Competent supervisory authority**    The competent supervisory authority/ies applicable to Data Exporter as notified to Data Importer in accordance with Section 11 (Governing Law) of this DPA.
+| Data Processor | The Customer specified in the Main Agreement and DPA |
+| --- | --- |
+| **Sub-Processor** | Trinsic |
+| **Import/Export** | Customer is the Data Exporter. Trinsic is the Data Importer. |
+| **Categories of data subjects** | Data subjects are End Users who are engaging with an End Customer who requires the End User to verify certain personal data through the Services. |
+| **Categories of personal data** | Name, contact details (phone number, email address), date of birth, full address, document or ID number (e.g. driver's license, voter ID, passport, national ID numbers), selfie |
+| **Nature and purpose of processing** | Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely, to verify and/or enrich the personal data transferred to Trinsic using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data. |
+| **Frequency of processing** | Continuous |
+| **Duration of processing** | Personal data will be retained in accordance with Trinsic\'s retention policies (which are configured by Customer through Trinsic's Services), and in any case for only as long as is required to meet Trinsic\'s legal, regulatory and operational requirements and as necessary to perform services. |
+| **Competent supervisory authority** | The competent supervisory authority/ies applicable to Data Exporter as notified to Data Importer in accordance with Section 11 (Governing Law) of this DPA. |
+
 
 **ANNEX B --- LGPD STANDARD CONTRACTUAL CLAUSES**
 
@@ -230,33 +232,36 @@ The applicable description of Processing below will depend on whether the Custom
 
 **Data Exporter:**
 
-  **Name**                           The Customer specified in the Main Agreement and DPA
-  ---------------------------------- ------------------------------------------------------------------------------------------
-  **Qualification**                  
-  **Main Address**                   The address associated with the Customer specified in the Main Agreement and DPA.
-  **Email Address**                  The email associated with the Customer specified in the Main Agreement and DPA.
-  **Contact for the Data Subject**   The representative associated with the Customer specified in the Main Agreement and DPA.
-  **Other Information**              
+| Name | The Customer specified in the Main Agreement and DPA |
+| --- | --- |
+| **Qualification** |  |
+| **Main Address** | The address associated with the Customer specified in the Main Agreement and DPA. |
+| **Email Address** | The email associated with the Customer specified in the Main Agreement and DPA. |
+| **Contact for the Data Subject** | The representative associated with the Customer specified in the Main Agreement and DPA. |
+| **Other Information** |  |
+
 
 **Data Importer:**
 
-  **Name**                           Trinsic Technologies, Inc.
-  ---------------------------------- ------------------------------------------------------------------------
-  **Qualification**                  EIN: 84-2221672
-  **Main Address**                   881 Baxter Dr. STE 100 South Jordan, UT 84095
-  **Email Address**                  legal\@trinsic.id
-  **Contact for the Data Subject**   [[https://trinsic.id/contact]{.underline}](https://trinsic.id/contact)
-  **Other Information**              
+| Name | Trinsic Technologies, Inc. |
+| --- | --- |
+| **Qualification** | EIN: 84-2221672 |
+| **Main Address** | 881 Baxter Dr. STE 100 South Jordan, UT 84095 |
+| **Email Address** | legal@trinsic.id |
+| **Contact for the Data Subject** | [https://trinsic.id/contact](https://trinsic.id/contact) |
+| **Other Information** |  |
+
 
 **CLAUSE 2. Object and Scope of Application**
 
 **2.1.** These Clauses shall apply to the International Transfers of Personal Data between the Data Exporter and Data Importer, as described below:
 
-  **Main Purposes of the Transfer**             The main purpose of the transfer of Personal Data is to authenticate an End User, or verify the identity of an End User, as more fully explained in Annex A of this DPA.
-  --------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Categories of Personal Data Transferred**   Categories of Personal Data transferred can be found in Annex A of this DPA.
-  **Period of data storage**                    Period of data storage of transferred data can be found in Annex A of this DPA.
-  **Other Information**                         
+| Main Purposes of the Transfer | The main purpose of the transfer of Personal Data is to authenticate an End User, or verify the identity of an End User, as more fully explained in Annex A of this DPA. |
+| --- | --- |
+| **Categories of Personal Data Transferred** | Categories of Personal Data transferred can be found in Annex A of this DPA. |
+| **Period of data storage** | Period of data storage of transferred data can be found in Annex A of this DPA. |
+| **Other Information** |  |
+
 
 **CLAUSE 3. Onward Transfers Allowed Under the Following Conditions:**
 
@@ -264,19 +269,21 @@ The applicable description of Processing below will depend on whether the Custom
 
 (a) Onward transfers to an authorized sub-processor
 
-  **Main purposes of the transfer**             The parties may transfer Personal Data onward to their sub-processors which are approved under the terms of this agreement.
-  --------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------
-  **Categories of personal data transferred**   Categories outlined in Annex A of this DPA.
-  **Period of data storage**                    Retention periods are specified in Annex A of this DPA.
-  **Other information**                         
+| Main purposes of the transfer | The parties may transfer Personal Data onward to their sub-processors which are approved under the terms of this agreement. |
+| --- | --- |
+| **Categories of personal data transferred** | Categories outlined in Annex A of this DPA. |
+| **Period of data storage** | Retention periods are specified in Annex A of this DPA. |
+| **Other information** |  |
 
-\(b\) Onward transfers to an End Customer under this DPA and the Main Agreement
 
-  **Main purposes of the transfer**             Customer may transfer Personal Data onward to its End Customers, if applicable, provided such transfer complies with the terms of this DPA and these SCCs.
-  --------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Categories of personal data transferred**   Categories outlined in Annex A of this DPA.
-  **Period of data storage**                    Retention periods are specified in Annex A of this DPA.
-  **Other information**                         
+(b) Onward transfers to an End Customer under this DPA and the Main Agreement
+
+| Main purposes of the transfer | Customer may transfer Personal Data onward to its End Customers, if applicable, provided such transfer complies with the terms of this DPA and these SCCs. |
+| --- | --- |
+| **Categories of personal data transferred** | Categories outlined in Annex A of this DPA. |
+| **Period of data storage** | Retention periods are specified in Annex A of this DPA. |
+| **Other information** |  |
+
 
 **CLAUSE 4. Responsibilities of the Parties**
 
@@ -312,13 +319,14 @@ b\) compliance with ANPD's determinations; and
 
 **Identification information of the Third-Party Controller:**
 
-  **Name**                              Identification information for each Third-Party Controller, including name, is maintained by Trinsic and is available upon request.
-  ------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Qualification**                     Identification information for each Third-Party Controller, including qualifying identifying details, is maintained by Trinsic and is available upon request.
-  **Main Address**                      Identification information for each Third-Party Controller, including address, is maintained by Trinsic and is available upon request.
-  **Email Address**                     Contact information for each Third-Party Controller, including email address, is maintained by Trinsic and is available upon request.
-  **Contact for the Data Subject**      Contact information for each Third-Party Controller, including a contact for data subjects, is maintained by Trinsic and is available upon request.
-  **Information on Related Contract**   Identification information for each Third-Party Controller, including the name of its contract with Data Importer, is maintained by Trinsic and is available upon request.
+| Name | Identification information for each Third-Party Controller, including name, is maintained by Trinsic and is available upon request. |
+| --- | --- |
+| **Qualification** | Identification information for each Third-Party Controller, including qualifying identifying details, is maintained by Trinsic and is available upon request. |
+| **Main Address** | Identification information for each Third-Party Controller, including address, is maintained by Trinsic and is available upon request. |
+| **Email Address** | Contact information for each Third-Party Controller, including email address, is maintained by Trinsic and is available upon request. |
+| **Contact for the Data Subject** | Contact information for each Third-Party Controller, including a contact for data subjects, is maintained by Trinsic and is available upon request. |
+| **Information on Related Contract** | Identification information for each Third-Party Controller, including the name of its contract with Data Importer, is maintained by Trinsic and is available upon request. |
+
 
 4.2. The Exporter shall be jointly liable for the damage caused by the International Data Transfer if it is carried out in breach of the obligations of the National Legislation or the lawful instructions of the Third-Party Controller, in which case the Exporter shall be deemed to be the Controller, subject to the provisions of Clause 17.
 
@@ -342,11 +350,11 @@ b\) inform the Data Subject of the service channel provided by the Third-Party C
 
 **SECTION II -- MANDATORY CLAUSES**
 
-The Parties hereby incorporate by reference Clauses 5--22 of the most recent English-language Brazilian Standard Contractual Clauses for International Transfers, as published and updated from time to time on the Brazilian National Data Protection Authority's "International Affairs" webpage ([[https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs]{.underline}](https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs)) or its successor, which shall form an integral, binding, and prevailing part of this Data Processing Addendum without further action by the Parties.
+The Parties hereby incorporate by reference Clauses 5--22 of the most recent English-language Brazilian Standard Contractual Clauses for International Transfers, as published and updated from time to time on the Brazilian National Data Protection Authority's "International Affairs" webpage ([https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs](https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs)) or its successor, which shall form an integral, binding, and prevailing part of this Data Processing Addendum without further action by the Parties.
 
 **SECTION III -- SECURITY MEASURES**
 
-Data Importer shall implement and maintain for the duration of this DPA the technical, administrative, and organizational safeguards available [[here]{.underline}](https://trinsic.id/toms/). These safeguards include, at a minimum:
+Data Importer shall implement and maintain for the duration of this DPA the technical, administrative, and organizational safeguards available [here](https://trinsic.id/toms/). These safeguards include, at a minimum:
 
 > a\) Governance and oversight of internal processes, including documented security policies, assignment of security responsibilities, and periodic risk assessments; and
 >
