@@ -1,6 +1,6 @@
 # Simple ID Consent to Collecting and Using Personal Information
 
-*Last material update: December 1, 2023*
+*Last material update: January 27, 2026*
 
 ## English
 
@@ -31,15 +31,6 @@ You may not agree to the collection, use, and provision of personal information 
 
 I am familiar with the above and agree to this.
 
-### Supplementary Provisions
-
-| **No.** | **Effective Date** | **Revised Matters** |
-| --- | --- | --- |
-| 1 | March 19, 2016 | — |
-| 2 | December 1, 2018 | Partial revision of collection items; partial revision of the retention and usage period of personal information |
-| 3 | July 1, 2019 | Change of provider: RaonSecure Co., Ltd. → Raon WhiteHat Co., Ltd. |
-| 4 | December 1, 2023 | Change of provider: Raon WhiteHat Co., Ltd. → RaonSecure Co., Ltd. |
-
 ## 한국어
 
 본인은 라온시큐어(주)가 제공하는 스마트폰 간편 인증 서비스(이하 ‘**서비스**’라 합니다)를 이용하기 위해, 다음과 같이 라온시큐어(주), 에스케이텔레콤㈜, ㈜케이티, LG유플러스㈜ 및 통신사의 이동 전화망을 임대하여 독자적인 이동통신 서비스를 제공하는 가상이동통신망사업자(이하 ‘**회사**’라 합니다)가 본인의 개인정보를 수집•이용하는 것에 동의합니다.
@@ -68,12 +59,3 @@ I am familiar with the above and agree to this.
 - LG유플러스(주): [www.uplus.co.kr](https://www.uplus.co.kr)
 
 본인은 상기 내용을 숙지하였으며, 이에 동의합니다.
-
-### 부칙
-
-| **호** | **시행일** | **개정사항** |
-| --- | --- | --- |
-| 제1호 | 2016년 3월 19일 | — |
-| 제2호 | 2018년 12월 1일 | 수집항목 일부 개정; 개인정보 보유 및 이용기간 일부 개정 |
-| 제3호 | 2019년 7월 1일 | 제공사업자 변경: 라온시큐어㈜ → 라온화이트햇㈜ |
-| 제4호 | 2023년 12월 1일 | 제공사업자 변경: 라온화이트햇㈜ → 라온시큐어㈜ |
