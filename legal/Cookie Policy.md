@@ -1,12 +1,12 @@
-**COOKIE POLICY**
+# Cookie Policy
 
-(Date of Last Revision: April 8, 2025)
+*Last material update: April 8, 2025*
 
 This Cookie Policy complements the [Privacy Policy](https://trinsic.id/privacy) by explaining how Trinsic Technologies, Inc. ("Trinsic", "Company", "we", "us" and "our") uses cookies and other similar technologies to recognize you when you visit https://trinsic.id/ (the "Website") and provide certain functionality through the software and platform accessible through the Website (the "Application"). The Website and Application are collectively referred to as the "Services". The single term "cookies" is used to refer to cookies and other similar technologies.
 
-Please take the time to read this Cookie Policy carefully. Should you have any questions in relation to any of the foregoing, or should you wish to exercise your rights, please contact legal@trinsic.id.
+Please take the time to read this Cookie Policy carefully. Should you have any questions in relation to any of the foregoing, or should you wish to exercise your rights, please contact [legal@trinsic.id](mailto:legal@trinsic.id).
 
-1. WHAT ARE COOKIES? WHY DO WE USE THEM?
+### 1. What Cookies Are and Why We Use Them
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website.
 
@@ -18,47 +18,40 @@ Cookies also help us to analyze traffic and usage trends in connection with our 
 
 Besides classic cookies, we may use similar techniques, such as flash cookies, tags, pixels, device fingerprinting, cross-device tracking, html5-local storage, javascripts, web beacons, software development kits (SDKs), etc. These techniques may be used to deliver cookies, track the number of visits to the Services, understand Service usage and effectiveness, and determine whether an email has been opened and acted upon.
 
-2. WHAT ARE THE DIFFERENT TYPES OF COOKIES?
+### 2. Types of Cookies
 
 Cookies can be categorized according to different criteria, one of which is the domain which placed the cookie. First-party cookies are those set by the website you are visiting (eg. cookies placed by Trinsic when you're visiting the Website). Third-party cookies are cookies that are set by a domain other than the one you are visiting.
 
 In addition, by categorizing cookies according to their purpose, you will receive more information on the benefits and the results of the cookie. In that context, we distinguish the following categories:
 
--   **Strictly necessary cookies** are essential for a website to work properly;
-
--   **Analytical / performance cookies** collect information about how you use the Website (e.g. which web pages/features you access most often, which allows us to improve the Website);
-
--   **Functionality cookies** allow the Website to remember your choices (e.g. your username, language, currency, or region) and to provide enhanced, personalized, or customized features;
-
--   **Targeting or advertising cookies** are used to deliver advertisements that are more relevant to you and your interests based on an analysis of your browsing.
+- **Strictly necessary cookies** are essential for a website to work properly;
+- **Analytical / performance cookies** collect information about how you use the Website (e.g. which web pages/features you access most often, which allows us to improve the Website);
+- **Functionality cookies** allow the Website to remember your choices (e.g. your username, language, currency, or region) and to provide enhanced, personalized, or customized features;
+- **Targeting or advertising cookies** are used to deliver advertisements that are more relevant to you and your interests based on an analysis of your browsing.
 
 As the first category of cookies are necessary for a website to function, these do not require your consent. The other categories of cookies can only be dropped with your consent, which you are free to give and withdraw anytime.
 
-3. HOW DO WE USE COOKIES?
+### 3. How We Use Cookies
 
 When you visit our Website, we place the following types of cookies:
 
-| Cookie name | Cookie purpose | First- or third-party | Expiry |
-| --- | --- | --- | --- |
-| ***Strictly necessary cookies*** | | | |
-| OptanonConsent | Cookie storing information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users' browser, when consent is not given. | Third-party: Optanon | 1 year |
-| ***Analytical/performance cookies*** | | | |
-| \_pk\_id | Matomo cookie used to to store a unique user ID. | First-party | 13 months |
-| ***Functionality cookies*** | | | |
-| lang | Cookie used to remember a visitor's language setting. | Third-party: LinkedIn | End of browsing activity |
-| ***Targeting or advertising cookies*** | | | |
-| \_fbp | Cookie used to display advertisements, either on Facebook or on a digital platform powered by Facebook advertising, after visiting the Website. | Third-party: Facebook | 3 months |
+| **Cookie name** | **Category** | **Cookie purpose** | **First- or third-party** | **Expiry** |
+| --- | --- | --- | --- | --- |
+| OptanonConsent | Strictly necessary | Cookie storing information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users' browser, when consent is not given. | Third-party: Optanon | 1 year |
+| `_pk_id` | Analytical/performance | Matomo cookie used to to store a unique user ID. | First-party | 13 months |
+| lang | Functionality | Cookie used to remember a visitor's language setting. | Third-party: LinkedIn | End of browsing activity |
+| `_fbp` | Targeting or advertising | Cookie used to display advertisements, either on Facebook or on a digital platform powered by Facebook advertising, after visiting the Website. | Third-party: Facebook | 3 months |
 
-4. HOW CAN I CONTROL COOKIES?
+### 4. How to Control Cookies
 
 You have the right to decide whether to accept or reject specific types of cookies. You can change your cookie preferences on the cookie banner but you can also disable or delete cookies on certain browsers (e.g. Chrome, Mozilla Firefox, and Safari).
 
-Your device may also offer you control over the use of cookies when you use ou Services. You can find out further information on cookies and how to manage them on [https://www.youronlinechoices.com](https://www.youronlinechoices.com) and [https://www.allaboutcookies.org/](https://www.allaboutcookies.org/). As these websites are not owned or operated by Trinsic we are not responsible for any of the content on them.
+Your device may also offer you control over the use of cookies when you use our Services. You can find out further information on cookies and how to manage them on [Your Online Choices](https://www.youronlinechoices.com) and [All About Cookies](https://www.allaboutcookies.org/). As these websites are not owned or operated by Trinsic we are not responsible for any of the content on them.
 
-To opt out from and prevent your data from being used by Google Analytics across all websites, you're welcome to check out the following instructions: [https://support.google.com/analytics/answer/181881?hl=en&ref\_topic=2919631&sjid=2714987146502624768-EU](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631&sjid=2714987146502624768-EU).
+To opt out from and prevent your data from being used by Google Analytics across all websites, you're welcome to check out the [Google Analytics opt-out instructions](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631&sjid=2714987146502624768-EU).
 
 You are free to refuse or delete cookies anytime, but this might affect the functionalities of the Services.
 
-5. REVISIONS AND MODIFICATIONS TO THE COOKIE POLICY.
+### 5. Revisions and Modifications to the Cookie Policy
 
-We may change this Cookie Policy from time to time in response to changing legal, technical and business developments. When we update our Cookie Policy, we will revise the "Last Updated" date at the top of this page and if needed, we will update our cookie banner. We encourage you to periodically review this page for the latest information on our cookie practices.
+We may change this Cookie Policy from time to time in response to changing legal, technical and business developments. When we update our Cookie Policy, we will revise the "Last material update" date at the top of this page and if needed, we will update our cookie banner. We encourage you to periodically review this page for the latest information on our cookie practices.
