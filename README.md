@@ -8,12 +8,12 @@ The Markdown files in this repository are the **source of truth** for these docu
 
 | Document                                                     | Slug | Description                                                  |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| [Terms of Service](docs/Terms%20of%20Service.md)             | [`/terms`](https://trinsic.id/terms) | Governs use of Trinsic's website, platform, and APIs         |
-| [Privacy Policy](docs/Privacy%20Policy.md)                   | [`/privacy`](https://trinsic.id/privacy) | How Trinsic collects, uses, and protects personal data       |
-| [Cookie Policy](docs/Cookie%20Policy.md)                     | [`/cookie-policy`](https://trinsic.id/cookie-policy) | Use of cookies and similar technologies on Trinsic's website and platform |
+| [Terms of Service](docs/Terms%20of%20Service.md)             | [`/legal/terms-of-service`](https://trinsic.id/legal/terms-of-service) | Governs use of Trinsic's website, platform, and APIs         |
+| [Privacy Policy](docs/Privacy%20Policy.md)                   | [`/legal/privacy-policy`](https://trinsic.id/legal/privacy-policy) | How Trinsic collects, uses, and protects personal data       |
+| [Cookie Policy](docs/Cookie%20Policy.md)                     | [`/legal/cookie-policy`](https://trinsic.id/legal/cookie-policy) | Use of cookies and similar technologies on Trinsic's website and platform |
 | [Online Data Processing Agreement](docs/Online%20DPA.md)     | [`/legal/online-dpa`](https://trinsic.id/legal/online-dpa) | Data Processing Agreement for customers using Trinsic's services |
-| [Technical and Organizational Measures](docs/Online%20TOMs.md) | [`/toms`](https://trinsic.id/toms) | Technical and Organizational Measures for data protection    |
-| [List of Sub-Processors](docs/Online%20Subprocessor%20Disclosure.md) | [`/subprocessors`](https://trinsic.id/subprocessors) | Current list of sub-processors engaged by Trinsic            |
+| [Technical and Organizational Measures](docs/Online%20TOMs.md) | [`/legal/online-toms`](https://trinsic.id/legal/online-toms) | Technical and Organizational Measures for data protection    |
+| [List of Sub-Processors](docs/Online%20Subprocessor%20Disclosure.md) | [`/legal/online-subprocessor-disclosure`](https://trinsic.id/legal/online-subprocessor-disclosure) | Current list of sub-processors engaged by Trinsic            |
 | [Google Wallet Relying Party Terms](docs/Online%20Google%20Wallet%20RP%20Terms.md) | [`/legal/online-google-wallet-rp-terms`](https://trinsic.id/legal/online-google-wallet-rp-terms) | Terms for relying parties using Verify with Google Wallet through Trinsic |
 | [Online Dukcapil Match Terms](docs/Indonesia%20Biometric%20Match.md) | [`/legal/indonesia-biometric-match`](https://trinsic.id/legal/indonesia-biometric-match) | Terms for identity verification via Indonesia's Dukcapil system (via VIDA) |
 | [Modern Slavery Statement](docs/Modern%20Slavery%20Statement.md) | [`/legal/modern-slavery-statement`](https://trinsic.id/legal/modern-slavery-statement) | Trinsic's transparency statement on modern slavery prevention |
