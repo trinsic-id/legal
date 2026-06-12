@@ -1,6 +1,6 @@
 # Simple ID Consent to Personal Information Disclosure
 
-*Last material update: December 1, 2023*
+*Last material update: January 27, 2026*
 
 ## English
 
