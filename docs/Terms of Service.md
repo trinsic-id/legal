@@ -66,7 +66,7 @@ Company does not allow persons under the age of eighteen (18) to use the Service
 
 ### 5. Use of Personal Data
 
-Company's collection and use of your personal information is described in Company's Privacy Policy at [https://trinsic.id/privacy/](https://trinsic.id/privacy/).
+Company's collection and use of your personal information is described in Company's Privacy Policy at [https://trinsic.id/legal/privacy-policy](https://trinsic.id/legal/privacy-policy).
 
 ### 6. Fees and Payments
 

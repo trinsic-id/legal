@@ -2,7 +2,7 @@
 
 *Last material update: June 12, 2026*
 
-This Cookie Policy complements the [Privacy Policy](https://trinsic.id/privacy) by explaining how Trinsic Technologies, Inc. ("Trinsic", "Company", "we", "us" and "our") uses cookies and other similar technologies to recognize you when you visit https://trinsic.id/ (the "Website") and provide certain functionality through the software and platform accessible through the Website (the "Application"). The Website and Application are collectively referred to as the "Services". The single term "cookies" is used to refer to cookies and other similar technologies.
+This Cookie Policy complements the [Privacy Policy](https://trinsic.id/legal/privacy-policy) by explaining how Trinsic Technologies, Inc. ("Trinsic", "Company", "we", "us" and "our") uses cookies and other similar technologies to recognize you when you visit https://trinsic.id/ (the "Website") and provide certain functionality through the software and platform accessible through the Website (the "Application"). The Website and Application are collectively referred to as the "Services". The single term "cookies" is used to refer to cookies and other similar technologies.
 
 Please take the time to read this Cookie Policy carefully. Should you have any questions in relation to any of the foregoing, or should you wish to exercise your rights, please contact [legal@trinsic.id](mailto:legal@trinsic.id).
 
