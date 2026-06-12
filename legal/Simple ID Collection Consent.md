@@ -1,6 +1,6 @@
-# Simple ID Consent to Collecting and Using Personal Information
+# Simple ID Collection Consent
 
-*Last material update: January 27, 2026*
+*Last material update: June 12, 2026*
 
 ## English
 
