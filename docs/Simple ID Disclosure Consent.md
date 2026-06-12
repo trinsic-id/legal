@@ -1,4 +1,4 @@
-# Simple ID Disclosure Consent
+# Simple ID Consent to Personal Information Disclosure
 
 *Last material update: June 12, 2026*
 
