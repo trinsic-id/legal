@@ -1,5 +1,7 @@
 # Technical and Organizational Measures
 
+*Last material update: June 12, 2026*
+
 Trinsic maintains an information security program designed to implement and maintain technical and organizational measures appropriate for the sensitivity, type, and scope of Personal Data processed in connection with the Services it offers to its Customers and comply with relevant Data Protection Laws and Regulations. Visit our security page to learn more at [security.trinsic.id](https://security.trinsic.id/).
 
 **Security Policies.** Trinsic establishes and maintains documented security policies and procedures aligned with recognized industry benchmarks outlining controls to safeguard Personal Data. These policies address areas including incident response, data handling, access control, and acceptable use, and are reviewed and updated regularly.

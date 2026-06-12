@@ -1,5 +1,7 @@
 # Modern Slavery Transparency Statement
 
+*Last material update: June 12, 2026*
+
 ### Introduction
 
 Trinsic Technologies, Inc. and its affiliates ("**Trinsic**," "**we**," "**us**," "**our**") are founded on the principle of trust. We help companies verify identity using digital ID documents and systems, a role that demands the highest standards of ethical and professional conduct. We have a zero-tolerance approach to modern slavery and are committed to acting with integrity in all business dealings. This commitment extends to preventing acts of slavery, servitude, forced or compulsory labor, and human trafficking within our business and supply chains.

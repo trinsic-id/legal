@@ -1,5 +1,7 @@
 # Google Wallet Relying Party Terms of Service
 
+*Last material update: June 12, 2026*
+
 These Trinsic Google Wallet Relying Party Terms of Service ("**Relying Party Terms**") form a legally binding contract between Trinsic, Inc. ("**Trinsic**" or "**Company**" or "**Aggregator**") and the party using the Verify with Google Wallet Program (the "**Specified Service**") through or in connection with Trinsic, as an aggregator, to verify user age, identity, or credentials (collectively, "you", "your", or the "**Relying Party**," as further defined below). By accessing, using, processing, and/or storing End User Data (defined below) in connection with the Specified Service, you are agreeing to these Relying Party Terms. These Relying Party Terms are effective as of the date you electronically accept these Terms (the "**Effective Date**").
 
 You acknowledge that Trinsic is a duly authorized aggregator of the Specified Service and that Trinsic has been granted rights by Google to facilitate the licensing and authorization of the Specified Service subject to, without limitation, the terms provided herein. You agree to comply with these Relying Party Terms and that the Relying Party Terms control your relationship with Trinsic as it relates to the Specified Service, in addition to any other applicable terms or agreements in place between you and Trinsic, including but not limited to the Google Wallet Activation Form ("**Activation Form**") (collectively with these Relying Party Terms, the "**Terms**").
@@ -74,7 +76,7 @@ Notwithstanding anything herein to the contrary, Trinsic may deny or revoke acce
 - (b) in promoting or marketing your use of the End User Data; and
 - (c) for use in incidental depictions, including screenshots, video, or other content from your Product, and may use your company or Product name produced or distributed in the course of promoting, marketing, or demonstrating how End User Data and the associated products and services can be accessed and used.
 
-6.2 You may revoke the permission to display your Brand Features for promotional or marketing purposes (as described in Section 6.1(b)) by giving Trinsic written notice and a reasonable period of time to facilitate the cessation of such use.
+**6.2 Revocation of License.** You may revoke the permission to display your Brand Features for promotional or marketing purposes (as described in Section 6.1(b)) by giving Trinsic written notice and a reasonable period of time to facilitate the cessation of such use.
 
 **6.3 Publicity.** You will not make any statement regarding your access or use of End User Data which suggests partnership with, sponsorship by, or endorsement by Google, unless you have separately obtained Google's prior written approval.
 
@@ -88,11 +90,11 @@ Notwithstanding anything herein to the contrary, Trinsic may deny or revoke acce
 
 **8.1 Termination.** Either party may terminate these Relying Party Terms by providing the other party with thirty (30) days' prior written notice. Upon termination, you must cease any further access, use, processing, and storage of End User Data.
 
-8.2 Notwithstanding Section 8.1, Trinsic may immediately terminate these Relying Party Terms or discontinue your access to End User Data, in whole or in part, without prior notice and without liability or other obligation to you, if: (a) Google terminates or suspends Trinsic's access to the Verify with Google Wallet Program or any portion thereof; (b) Google directs Trinsic to terminate or suspend your access; or (c) Trinsic reasonably believes you are in violation of these Terms or applicable law.
+**8.2 Immediate Termination.** Notwithstanding Section 8.1, Trinsic may immediately terminate these Relying Party Terms or discontinue your access to End User Data, in whole or in part, without prior notice and without liability or other obligation to you, if: (a) Google terminates or suspends Trinsic's access to the Verify with Google Wallet Program or any portion thereof; (b) Google directs Trinsic to terminate or suspend your access; or (c) Trinsic reasonably believes you are in violation of these Terms or applicable law.
 
 **8.3 Your Obligations Post-Termination.** Upon any termination of the Terms or discontinuation of your access to End User Data, you will cease attempting to access or accessing, processing, or storing any End User Data.
 
-**8.4 Surviving Provisions.** When the Terms terminate, those terms that by their nature are intended to continue indefinitely will continue to apply, including but not limited to: Section 7, Service-related Communications; Section 9, Liability; Section 10, General Provisions.
+**8.4 Surviving Provisions.** When the Terms terminate, those terms that by their nature are intended to continue indefinitely will continue to apply, including but not limited to: Section 7, Service-Related Communications; Section 9, Liability; Section 10, General Provisions.
 
 ### 9. Liability
 

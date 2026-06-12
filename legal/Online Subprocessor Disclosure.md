@@ -1,5 +1,7 @@
 # List of Sub-Processors
 
+*Last material update: June 12, 2026*
+
 To support delivery of our Services, Trinsic (or one of its Affiliates listed below), may engage and use Sub-Processors. Prior to engaging any Sub-Processors, Trinsic performs diligence to evaluate their privacy, security, and confidentiality practices, and executes all appropriate agreements.
 
 ### Platform Sub-Processors

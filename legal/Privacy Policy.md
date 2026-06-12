@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last material update: November 18, 2025*
+*Last material update: June 12, 2026*
 
 The website [https://trinsic.id/](https://trinsic.id/) (the "**Site**") and the available software and platform accessible through the Site (the "**Application**") are owned and operated by Trinsic Technologies, Inc, a Delaware corporation ("**Trinsic**", or "**Company**") headquartered in Salt Lake City, Utah.
 
@@ -143,7 +143,7 @@ Under Article 27 of the General Data Protection Regulation (GDPR), we have also 
 | Data Portability and Transfer | A right to receive personal information, which you have provided to us, in a structured, commonly used and machine-readable format. You also have the right to require us to transfer this personal data to another organization, at your request. |
 | Object to Processing | A right to object to our processing of personal information held by us about you (including for the purposes of sending marketing materials to you). |
 
-**11.4 International Data Transfers.** Trinsic is located in the United States and, as such, your personal information may be processed by us or our service providers in the United States. In such cases, we have implemented appropriate safeguards for EEA residents, in accordance with Article 46 GDPR. For any transfer of personal information from the EEA, Switzerland, or the United Kingdom that we make, we use appropriate safeguards to ensure the lawful processing and transfer of the personal information. When appropriate, we may use standard contractual clauses approved by the European Commission. Please contact us through one of the methods provided in the "Contact Us" section below and put "Safeguards" in the subject line to receive more information on the safeguards we have put in place.
+**11.4 International Data Transfers.** Trinsic is located in the United States and, as such, your personal information may be processed by us or our service providers in the United States. In such cases, we have implemented appropriate safeguards for EEA residents, in accordance with Article 46 GDPR. For any transfer of personal information from the EEA, Switzerland, or the United Kingdom that we make, we use appropriate safeguards to ensure the lawful processing and transfer of the personal information. When appropriate, we may use standard contractual clauses approved by the European Commission. Please contact us through one of the methods provided on our [Contact Us](https://www.trinsic.id/contact) page and put "Safeguards" in the subject line to receive more information on the safeguards we have put in place.
 
 If you have any concerns or complaints regarding our processing of your personal information, you may contact our EU Representative directly using the details provided above.
 
@@ -181,7 +181,7 @@ Please note that this DPF Annex I binding arbitration mechanism is a separate pr
 
 We do not sell or share personal information for third-party direct marketing purposes. To exercise your rights, please contact us using the information provided above.
 
-**12.2 Notice to Nevada Residents.** Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. Subject to several exceptions, Nevada law defines "sale" to mean the exchange of certain types of personal information for monetary consideration to a person for the person to license or sell the information to additional persons. We do not currently sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and we will record your instructions and incorporate them in the future if our policy changes. Opt-out requests may be sent to us through one of the methods provided in the "Contact Us" section below and put "Nevada Opt-Out" in the subject line.
+**12.2 Notice to Nevada Residents.** Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. Subject to several exceptions, Nevada law defines "sale" to mean the exchange of certain types of personal information for monetary consideration to a person for the person to license or sell the information to additional persons. We do not currently sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and we will record your instructions and incorporate them in the future if our policy changes. Opt-out requests may be sent to us through one of the methods provided on our [Contact Us](https://www.trinsic.id/contact) page and put "Nevada Opt-Out" in the subject line.
 
 **12.3 Notice to Utah Residents.** We do not disclose your personal information to any third party for such third party's direct marketing purposes.
 

@@ -1,5 +1,7 @@
 # Online Data Processing Agreement
 
+*Last material update: June 12, 2026*
+
 `THIS DPA SHALL NOT APPLY TO THE EXTENT THAT CUSTOMERS WHO ACCESS AND USE THE SERVICES HAVE ESTABLISHED A SEPARATE, WRITTEN DATA PROTECTION AGREEMENT WHICH IS (I) CURRENT, (II) COMPLIANT WITH APPLICABLE REGULATIONS, AND (III) COVERS THE SPECIFIC PERSONAL DATA PROCESSING ACTIVITIES IN QUESTION.`
 
 This Data Processing Agreement is incorporated by reference into, and forms part of, the principal agreement that governs Customer's access to and use of the Services, including but not limited to the Terms of Service, a separate Master Services Agreement, or Service-specific Participation Agreement (the "**Main Agreement**") between Trinsic Technologies, Inc., a Delaware corporation ("**Trinsic**"), and the Customer agreeing to the Agreement. ("**Customer**", or "**you**").

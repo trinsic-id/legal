@@ -1,5 +1,7 @@
 # Online Dukcapil Match Terms
 
+*Last material update: June 12, 2026*
+
 ## English
 
 In terms of the identity verification process for the purpose of user onboarding, your personal data in the form of demographic and/or biometric data will be checked for conformity, by PT Indonesia Digital Identity (VIDA) as our partner, with data recorded in the system of the government agency authorised to issue the relevant identity. If your personal data is verified for conformity, then VIDA as the Certification Authority certified by the Ministry of Communication and Informatics, will issue a digital certificate as evidence that your personal data has been verified and is in accordance with the data recorded in the system of the government agency authorised to issue the identity.

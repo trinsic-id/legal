@@ -1,6 +1,6 @@
 # Cookie Policy
 
-*Last material update: April 8, 2025*
+*Last material update: June 12, 2026*
 
 This Cookie Policy complements the [Privacy Policy](https://trinsic.id/privacy) by explaining how Trinsic Technologies, Inc. ("Trinsic", "Company", "we", "us" and "our") uses cookies and other similar technologies to recognize you when you visit https://trinsic.id/ (the "Website") and provide certain functionality through the software and platform accessible through the Website (the "Application"). The Website and Application are collectively referred to as the "Services". The single term "cookies" is used to refer to cookies and other similar technologies.
 
@@ -38,7 +38,7 @@ When you visit our Website, we place the following types of cookies:
 | **Cookie name** | **Category** | **Cookie purpose** | **First- or third-party** | **Expiry** |
 | --- | --- | --- | --- | --- |
 | OptanonConsent | Strictly necessary | Cookie storing information about the categories of cookies the site uses and whether visitors have given or withdrawn consent for the use of each category. This enables site owners to prevent cookies in each category from being set in the users' browser, when consent is not given. | Third-party: Optanon | 1 year |
-| `_pk_id` | Analytical/performance | Matomo cookie used to to store a unique user ID. | First-party | 13 months |
+| `_pk_id` | Analytical/performance | Matomo cookie used to store a unique user ID. | First-party | 13 months |
 | lang | Functionality | Cookie used to remember a visitor's language setting. | Third-party: LinkedIn | End of browsing activity |
 | `_fbp` | Targeting or advertising | Cookie used to display advertisements, either on Facebook or on a digital platform powered by Facebook advertising, after visiting the Website. | Third-party: Facebook | 3 months |
 
