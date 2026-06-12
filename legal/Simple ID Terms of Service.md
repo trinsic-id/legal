@@ -128,16 +128,6 @@ The “Company” shall not take responsibility for the information, data, relia
 
 If a lawsuit is filed in connection with the terms and conditions, such as when the dispute has not been resolved in the consultation under Paragraph 1, the Seoul Central District Court shall be the competent court.
 
-### Supplementary Provisions
-
-| **No.** | **Effective Date** | **Revised Matters** |
-| --- | --- | --- |
-| 1 | March 19, 2016 | — |
-| 2 | December 1, 2018 | Addition of Section 5 (Application and Termination of Service Use) |
-| 3 | July 1, 2019 | Change of provider: RaonSecure Co., Ltd. → Raon WhiteHat Co., Ltd. |
-| 4 | December 1, 2023 | Change of provider: Raon WhiteHat Co., Ltd. → RaonSecure Co., Ltd. |
-| 5 | January 27, 2026 | User definition: excluding the scope of users of corporate or prepaid phones without personal information |
-
 ## 한국어
 
 ### 제1조 (목적)
@@ -261,13 +251,3 @@ If a lawsuit is filed in connection with the terms and conditions, such as when 
 ‘회사’와 ‘이용자’는 ‘서비스’와 관련하여 분쟁이 발생한 경우, 원만하게 해결하기 위하여 필요한 모든 노력을 하여야 합니다.
 
 제1항의 협의에서도 분쟁이 해결되지 않은 경우 등, 약관과 관련하여 분쟁으로 인한 소송이 제기될 경우 동 소송은 서울중앙지방법원을 관할 법원으로 합니다.
-
-### 부칙
-
-| **호** | **시행일** | **개정사항** |
-| --- | --- | --- |
-| 제1호 | 2016년 3월 19일 | — |
-| 제2호 | 2018년 12월 1일 | 제5조 (서비스 이용신청 및 해지) 추가 |
-| 제3호 | 2019년 7월 1일 | 제공사업자 변경: 라온시큐어㈜ → 라온화이트햇㈜ |
-| 제4호 | 2023년 12월 1일 | 제공사업자 변경: 라온화이트햇㈜ → 라온시큐어㈜ |
-| 제5호 | 2026년 1월 27일 | 이용자 정의: 본인 정보가 없는 법인폰 또는 선불폰 이용자 범위 제외 |
