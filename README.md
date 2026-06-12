@@ -21,6 +21,10 @@ The Markdown files in this repository are the **source of truth** for these docu
 | [Simple ID Collection Consent](docs/Simple%20ID%20Collection%20Consent.md) | [`/legal/simple-id-collection-consent`](https://trinsic.id/legal/simple-id-collection-consent) | Consent to collection and use of personal information for Simple ID |
 | [Simple ID Disclosure Consent](docs/Simple%20ID%20Disclosure%20Consent.md) | [`/legal/simple-id-disclosure-consent`](https://trinsic.id/legal/simple-id-disclosure-consent) | Consent to disclosure of personal information for Simple ID |
 
+## Style Guide
+
+Formatting conventions for these Markdown documents are captured in [Legal Document Style Guide](STYLE_GUIDE.md). New and updated documents should follow that guide unless legal, regulatory, or provider-supplied language requires a different structure.
+
 ## Contributing
 
 Pull requests are welcome — to fix typos and formatting errors, or to suggest changes to the substance of a document.
