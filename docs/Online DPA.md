@@ -10,33 +10,33 @@ This Data Processing Agreement ("**DPA**") is incorporated by reference into, an
 
 The capitalized terms used in this DPA shall have the meanings set forth in this Section, elsewhere in this DPA, or in the Main Agreement.
 
-**1.1 Business Purpose.** "**Business Purpose**" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
+**1.1** "**Business Purpose**" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
 
-**1.2 CCPA.** "**CCPA**" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("CPRA").
+**1.2** "**CCPA**" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("CPRA").
 
-**1.3 Data Protection Laws and Regulations.** "**Data Protection Laws and Regulations**" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
+**1.3** "**Data Protection Laws and Regulations**" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
 
-**1.4 End User.** "**End User**" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
+**1.4** "**End User**" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
 
-**1.5 End User Data.** "**End User Data**" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
+**1.5** "**End User Data**" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
 
-**1.6 EU GDPR.** "**EU GDPR**" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+**1.6** "**EU GDPR**" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
 
-**1.7 LGPD.** "**LGPD**" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
+**1.7** "**LGPD**" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
 
-**1.8 Security Breach.** "**Security Breach**" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
+**1.8** "**Security Breach**" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
 
-**1.9 Standard Contractual Clauses (SCCs).** "**Standard Contractual Clauses (SCCs)**" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
+**1.9** "**Standard Contractual Clauses (SCCs)**" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
 
-**1.10 Sub-Processor.** "**Sub-Processor**" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
+**1.10** "**Sub-Processor**" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
 
-**1.11 Swiss DP Laws.** "**Swiss DP Laws**" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
+**1.11** "**Swiss DP Laws**" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
 
-**1.12 Transfer.** "**Transfer**" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
+**1.12** "**Transfer**" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
 
-**1.13 UK GDPR.** "**UK GDPR**" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
+**1.13** "**UK GDPR**" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
 
-**1.14 UK Addendum.** "**UK Addendum**" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
+**1.14** "**UK Addendum**" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
 
 **1.15 Other Terms.** Terms such as "controller," "data subject," "personal data", "processor," and "processing" or similar terms shall be construed according to applicable Data Protection Laws and Regulations or, in the absence thereof, the EU GDPR.
 
