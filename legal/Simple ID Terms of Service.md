@@ -16,21 +16,21 @@ The term “**Simple Identity Verification Service**” means a service that ena
 
 The term “**User**” means an individual who owns a mobile phone registered under their name with a telecommunications carrier, provides their Personal Information to the Company and such telecommunications carrier(s) for the purpose of using the Service, and seeks to verify the ownership of a device. For the avoidance of doubt, individuals using corporate mobile phones or prepaid mobile phones (including those provided by prepaid mobile virtual network operators) without registered personal information shall be excluded.
 
-“**Personal Information**” refers to the information of the User necessary for identification, such as the date of birth, gender, name, internal/foreigner, mobile phone number, and carrier entered by the User.
+“**Personal Information**” refers to the information of the “User” necessary for identification, such as the date of birth, gender, name, internal/foreigner, mobile phone number, and carrier entered by the “User”.
 
 The term “**Mobile Carrier**” refers to an institution that exchanges subscriber information such as SK Telecom Co., KT Co., LG Uplus Co., and virtual mobile network operators that provide independent mobile communication services by leasing mobile phone networks of mobile carriers to confirm the device’s occupation and name.
 
-The term “**Relying Party**” refers to an institution that provides information using the Internet or mediates the provision of information through a contract with a Company and exchanges Personal Information about Users.
+The term “**Relying Party**” refers to an institution that provides information using the Internet or mediates the provision of information through a contract with a “Company” and exchanges “Personal Information” about “Users”.
 
-“**Personal Information Verified Result**” refers to the result of checking the ownership of a device using Service.
+“**Personal Information Verified Result**” refers to the result of checking the ownership of a device using “Service”.
 
 ### 3. Effects and Changes of Terms and Conditions
 
-These terms and conditions will take effect by posting to the User on the Service screen or otherwise announcing it.
+These terms and conditions will take effect by posting to the “User” on the “Service” screen or otherwise announcing it.
 
-The Company may revise the contents of these Terms and Conditions to the extent that they do not violate the Act on the Regulation of Terms and Conditions and other relevant Acts and subordinate statutes, and if any changes are made, it will be notified in the same manner as in Paragraph 1. However, important matters concerning the rights and obligations of the User will be announced 15 days before the enforcement of the changed contents.
+The “Company” may revise the contents of these Terms and Conditions to the extent that they do not violate the Act on the Regulation of Terms and Conditions and other relevant Acts and subordinate statutes, and if any changes are made, it will be notified in the same manner as in Paragraph 1. However, important matters concerning the rights and obligations of the “User” will be announced 15 days before the enforcement of the changed contents.
 
-The User is not responsible for any damages and damages caused by not knowing the contents of the changed terms and conditions.
+The “User” is not responsible for any damages and damages caused by not knowing the contents of the changed terms and conditions.
 
 ### 4. External Rules
 
@@ -38,63 +38,63 @@ Matters not specified in these Terms and Conditions shall be subject to other re
 
 ### 5. Application and Termination of Service Use
 
-Users will be able to subscribe to the use if they do the following: (a) when the User presses or checks the “Agree” button on the contents of these terms and conditions disclosed when using the Service; (b) other applications made by a separate method set by the Relying Party.
+Users will be able to subscribe to the use if they do the following: (a) when the “User” presses or checks the “Agree” button on the contents of these terms and conditions disclosed when using the “Service”; (b) other applications made by a separate method set by the “Relying Party”.
 
-Users who have been registered for use will remain in effect until the service is terminated.
+“Users” who have been registered for use will remain in effect until the service is terminated.
 
-A User who wants to terminate the use of the Service may stop using the Service through the following actions: (a) in the case of completing the application for termination through the service termination menu provided by the Relying Party; (b) other applications made by a separate method set by the Relying Party.
+A “User” who wants to terminate the use of the “Service” may stop using the “Service” through the following actions: (a) in the case of completing the application for termination through the service termination menu provided by the “Relying Party”; (b) other applications made by a separate method set by the “Relying Party”.
 
 ### 6. Obligation of Company
 
-The Company shall not divulge or distribute the Personal Information of the User recognized in connection with the provision of the Service to a third party without his/her consent. However, this is not the case if there is a request from a state agency, or if there is a request according to the procedures set forth in other relevant laws and regulations, such as if there is an investigative purpose for a crime.
+The “Company” shall not divulge or distribute the “Personal Information” of the “User” recognized in connection with the provision of the “Service” to a third party without his/her consent. However, this is not the case if there is a request from a state agency, or if there is a request according to the procedures set forth in other relevant laws and regulations, such as if there is an investigative purpose for a crime.
 
-The Company shall continuously perform preventive inspections, maintenance, etc. of the Service in order to provide the Service to the User safely, and shall repair and recover it without delay in the event of a Service failure.
+The “Company” shall continuously perform preventive inspections, maintenance, etc. of the “Service” in order to provide the “Service” to the “User” safely, and shall repair and recover it without delay in the event of a “Service” failure.
 
-The Company shall, if the opinions and complaints raised by the User are deemed reasonable, process them without delay or notify the schedule of the processing.
+The “Company” shall, if the opinions and complaints raised by the “User” are deemed reasonable, process them without delay or notify the schedule of the processing.
 
-The Company is not liable for damages to the User due to an accident caused by forgery or falsification of the access medium if it is not the subject of issuing the access medium.
+The “Company” is not liable for damages to the “User” due to an accident caused by forgery or falsification of the access medium if it is not the subject of issuing the access medium.
 
 ### 7. Obligation of Users
 
-The User shall not engage in any of the following acts in the use of the Service, and the Company shall not be liable for any violation: (a) unfair use and theft of Personal Information of another User; (b) any act that infringes on the copyright of the Company and other rights, such as the copyright of a third party; (c) other criminal acts; (d) other acts in violation of relevant laws and regulations.
+The “User” shall not engage in any of the following acts in the use of the “Service”, and the “Company” shall not be liable for any violation: (a) unfair use and theft of “Personal Information” of another “User”; (b) any act that infringes on the copyright of the “Company” and other rights, such as the copyright of a third party; (c) other criminal acts; (d) other acts in violation of relevant laws and regulations.
 
-Users shall not divulge, expose or leave their access media to third parties, and take sufficient care to prevent theft, forgery, or tampering of the access media.
+“Users” shall not divulge, expose or leave their access media to third parties, and take sufficient care to prevent theft, forgery, or tampering of the access media.
 
-The User must comply with the terms and conditions and the instructions or precautions for the Service.
+The “User” must comply with the terms and conditions and the instructions or precautions for the “Service”.
 
 ### 8. Contents of Services
 
-Service is a verification service that allows the user to verify the ownership of the device using Personal Information registered in the carrier.
+“Service” is a verification service that allows the user to verify the ownership of the device using “Personal Information” registered in the carrier.
 
-The Relying Party provides the Service to the User when requesting content that requires verification of the ownership of the device.
+The “Relying Party” provides the “Service” to the “User” when requesting content that requires verification of the ownership of the device.
 
-After entering his/her own information, the User checks whether the information entered matches the information held by the Mobile Carrier.
+After entering his/her own information, the “User” checks whether the information entered matches the information held by the “Mobile Carrier”.
 
 ### 9. Time to Provide Services
 
-In principle, the use of the Service is 24 hours a day. However, the Service may be suspended for regular inspection and other technical reasons, and may be suspended even for a period set by the Company for operational purposes.
+In principle, the use of the “Service” is 24 hours a day. However, the “Service” may be suspended for regular inspection and other technical reasons, and may be suspended even for a period set by the “Company” for operational purposes.
 
-If the Company deems it necessary for efficient performance of its duties, the Service may be divided into a certain range and the available time may be set differently for each range, and in this case, the details will be announced.
+If the “Company” deems it necessary for efficient performance of its duties, the “Service” may be divided into a certain range and the available time may be set differently for each range, and in this case, the details will be announced.
 
 ### 10. Suspension of Service Provision
 
-The Company may suspend all or part of the Service in any of the following cases: (a) in the event of maintenance inspection and replacement of information and communication facilities, such as computers, or reasons such as failure of communication, etc.; (b) in case it is unavoidable due to construction, such as repair of facilities for Service; (c) if necessary for Service upgrade and system maintenance, etc.; (d) when there is a disruption to the normal use of Service due to power outages, disruptions in all facilities, or congestion of use, etc.; (e) when a specific User attempts abnormal authentication and interferes with the operation of the Service; (f) in the event of other force majeure reasons, such as natural disasters or national emergencies.
+The “Company” may suspend all or part of the “Service” in any of the following cases: (a) in the event of maintenance inspection and replacement of information and communication facilities, such as computers, or reasons such as failure of communication, etc.; (b) in case it is unavoidable due to construction, such as repair of facilities for “Service”; (c) if necessary for “Service” upgrade and system maintenance, etc.; (d) when there is a disruption to the normal use of “Service” due to power outages, disruptions in all facilities, or congestion of use, etc.; (e) when a specific “User” attempts abnormal authentication and interferes with the operation of the “Service”; (f) in the event of other force majeure reasons, such as natural disasters or national emergencies.
 
-The Company shall not be liable for any problems arising from the change or suspension of the Service unless there is intention or negligence of the Company.
+The “Company” shall not be liable for any problems arising from the change or suspension of the “Service” unless there is intention or negligence of the “Company”.
 
 ### 11. Securing Service Safety
 
-In order to ensure the safety and reliability of the Service, the Company should take administrative measures such as establishing and implementing business processing guidelines, managing information processing systems and computer data, and establishing and operating monitoring systems and anti-hacking systems.
+In order to ensure the safety and reliability of the “Service”, the “Company” should take administrative measures such as establishing and implementing business processing guidelines, managing information processing systems and computer data, and establishing and operating monitoring systems and anti-hacking systems.
 
-The Company should have a monitoring system that can monitor, warn, and control the resource status of the information processing system to check the normal operation of the server and communication device.
+The “Company” should have a monitoring system that can monitor, warn, and control the resource status of the information processing system to check the normal operation of the server and communication device.
 
-The Company installs and operates the following systems and programs to prevent hacking infringement: (a) installation of the intrusion prevention system; (b) installation of intrusion detection system; (c) installation of other information protection systems, such as necessary protective equipment or cryptographic programs.
+The “Company” installs and operates the following systems and programs to prevent hacking infringement: (a) installation of the intrusion prevention system; (b) installation of intrusion detection system; (c) installation of other information protection systems, such as necessary protective equipment or cryptographic programs.
 
-The Company has established and operated measures including the following to prevent computer virus infections: (a) refrain from using applications whose source, distribution channel, and producer are not clear, and use them after diagnosis and treatment with a computer virus search program if inevitable; (b) computer virus scanning, installing treatment programs and maintaining the latest version; (c) prepare defense, exploration, and recovery procedures against computer virus infection.
+The “Company” has established and operated measures including the following to prevent computer virus infections: (a) refrain from using applications whose source, distribution channel, and producer are not clear, and use them after diagnosis and treatment with a computer virus search program if inevitable; (b) computer virus scanning, installing treatment programs and maintaining the latest version; (c) prepare defense, exploration, and recovery procedures against computer virus infection.
 
 ### 12. Protection of User’s Personal Information
 
-The Company shall endeavor to protect the User’s personal data in compliance with applicable laws and regulations. The protection and processing of the User’s personal data shall be governed by applicable laws and regulations and Company’s Privacy Policy.
+The “Company” shall endeavor to protect the User’s personal data in compliance with applicable laws and regulations. The protection and processing of the User’s personal data shall be governed by applicable laws and regulations and Company’s Privacy Policy.
 
 ### 13. Consignment of Personal Information
 
@@ -104,27 +104,27 @@ Notwithstanding the foregoing, where a Foreign Service Provider (Foreign SP) col
 
 ### 14. Compensation for Damages
 
-The Company shall not be liable for any damages other than those caused by gross negligence by the Company in connection with the use of the Service.
+The “Company” shall not be liable for any damages other than those caused by gross negligence by the “Company” in connection with the use of the “Service”.
 
 ### 15. Relationship Between the Company and the Service Provider
 
-The Company shall not be liable for guaranteeing service products or services provided by the Relying Party.
+The “Company” shall not be liable for guaranteeing service products or services provided by the “Relying Party”.
 
-The Company shall not be liable for any transaction between the Relying Party and the User, except in the case of intentional or gross negligence.
+The “Company” shall not be liable for any transaction between the “Relying Party” and the “User”, except in the case of intentional or gross negligence.
 
 ### 16. Exemption
 
-If the Company is unable to provide the Service without intention or negligence, the responsibility for providing the Service will be exempted.
+If the “Company” is unable to provide the “Service” without intention or negligence, the responsibility for providing the “Service” will be exempted.
 
-The Company shall not be liable for any obstacles to the use of the Service due to the circumstances of the User or a third party.
+The “Company” shall not be liable for any obstacles to the use of the “Service” due to the circumstances of the “User” or a third party.
 
-The Company shall not be liable for the loss of the revenue expected by the User using the Service unless intentionally or grossly negligent, and shall not be liable for any other damages caused by the data obtained through the Service.
+The “Company” shall not be liable for the loss of the revenue expected by the “User” using the “Service” unless intentionally or grossly negligent, and shall not be liable for any other damages caused by the data obtained through the “Service”.
 
-The Company shall not take responsibility for the information, data, reliability, accuracy, etc. posted by the User in the Service unless there is intentional or gross negligence.
+The “Company” shall not take responsibility for the information, data, reliability, accuracy, etc. posted by the “User” in the “Service” unless there is intentional or gross negligence.
 
 ### 17. Court with Jurisdiction
 
-Company and User shall make every effort necessary to resolve the dispute smoothly in the event of a dispute related to Service.
+“Company” and “User” shall make every effort necessary to resolve the dispute smoothly in the event of a dispute related to “Service”.
 
 If a lawsuit is filed in connection with the terms and conditions, such as when the dispute has not been resolved in the consultation under Paragraph 1, the Seoul Central District Court shall be the competent court.
 
