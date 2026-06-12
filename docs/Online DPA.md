@@ -4,42 +4,47 @@
 
 `THIS DPA SHALL NOT APPLY TO THE EXTENT THAT CUSTOMERS WHO ACCESS AND USE THE SERVICES HAVE ESTABLISHED A SEPARATE, WRITTEN DATA PROTECTION AGREEMENT WHICH IS (I) CURRENT, (II) COMPLIANT WITH APPLICABLE REGULATIONS, AND (III) COVERS THE SPECIFIC PERSONAL DATA PROCESSING ACTIVITIES IN QUESTION.`
 
-This Data Processing Agreement is incorporated by reference into, and forms part of, the principal agreement that governs Customer's access to and use of the Services, including but not limited to the Terms of Service, a separate Master Services Agreement, or Service-specific Participation Agreement (the "**Main Agreement**") between Trinsic Technologies, Inc., a Delaware corporation ("**Trinsic**"), and the Customer agreeing to the Agreement. ("**Customer**", or "**you**").
-
-### Recitals
-
-**WHEREAS**, Trinsic provides services (the "**Services**") under the Main Agreement that involve the processing of End User Data (defined below) provided by or on behalf of the Customer and that are subject to applicable data protection laws.
-
-**WHEREAS**, this DPA supplements the Main Agreement and establishes additional terms governing Trinsic's processing of End User Data.
-
-**NOW, THEREFORE**, in consideration of the foregoing and the mutual covenants set forth herein, the parties agree as follows:
+This Data Processing Agreement ("**DPA**") is incorporated by reference into, and forms part of, the principal agreement that governs Customer's access to and use of the services provided by Trinsic (the "**Services**"), including but not limited to the Terms of Service, a separate Master Services Agreement, or Service-specific Participation Agreement (the "**Main Agreement**") between Trinsic Technologies, Inc., a Delaware corporation ("**Trinsic**"), and the Customer agreeing to the Agreement ("**Customer**" or "**you**"). This DPA supplements the Main Agreement and establishes additional terms governing Trinsic's processing of End User Data (defined below) provided by or on behalf of the Customer in connection with Services that are subject to applicable data protection laws.
 
 ### 1. Definitions and Interpretation
 
-**1.1 Definitions.** The capitalized terms used in this DPA shall have the meanings set forth in this Section or the Main Agreement. Key defined terms include, but are not limited to:
+The capitalized terms used in this DPA shall have the meanings set forth in this Section, elsewhere in this DPA, or in the Main Agreement.
 
-- "**Business Purpose**" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
-- "**CCPA**" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("CPRA").
-- "**Data Protection Laws and Regulations**" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
-- "**End User**" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
-- "**End User Data**" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
-- "**EU GDPR**" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
-- "**LGPD**" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
-- "**Security Breach**" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
-- "**Standard Contractual Clauses (SCCs)**" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
-- "**Sub-Processor**" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
-- "**Swiss DP Laws**" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
-- "**Transfer**" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
-- "**UK GDPR**" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
-- "**UK Addendum**" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
+**1.1** "**Business Purpose**" means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
 
-**1.2 Other Terms.** Terms such as "controller," "data subject," "personal data", "processor," and "processing" or similar terms shall be construed according to applicable Data Protection Laws and Regulations or, in the absence thereof, the EU GDPR.
+**1.2** "**CCPA**" means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 ("CPRA").
 
-**1.3 Interpretation.** This DPA is incorporated by reference into, and forms part of the Main Agreement. Interpretations and defined terms set forth in the Main Agreement apply to the interpretation of this DPA.
+**1.3** "**Data Protection Laws and Regulations**" means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
 
-**1.4 Conflict.** In the case of conflict or ambiguity between: (a) any of the provisions of this DPA and the provisions of the Main Agreement, the provisions of this DPA will prevail; (b) any of the provisions of this DPA and any executed Standard Contractual Clauses, the provisions of the executed Standard Contractual Clauses will prevail; and (c) the LGPD (or regulations issued by ANPD) and this DPA, the legal provisions of LGPD and ANPD regulations shall prevail.
+**1.4** "**End User**" means a natural person with whom the Customer engages in connection with the Customer's use of the Services.
 
-**1.5 Scope.** Notwithstanding any term or condition of the DPA, the DPA does not apply to any End User Data or information that does not relate to one or more identifiable individuals, that has been aggregated or de-identified in accordance with Data Protection Laws and Regulations, or to the extent that Trinsic and Customer have entered separate data processing terms that address the subject matter hereof.
+**1.5** "**End User Data**" means any data or information relating to an End User that is collected, processed, transmitted, or stored in service of the Business Purpose that could directly or indirectly identify an End User. This includes, but is not limited to, personal data as defined under applicable Data Protection Laws and Regulations such as identifiers, names, dates of birth, and individual identity attributes. For purposes of this DPA, End User Data shall exclude anonymized or aggregated data that cannot reasonably be used to identify an individual.
+
+**1.6** "**EU GDPR**" means regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of End User Data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation).
+
+**1.7** "**LGPD**" means Brazil's General Data Protection Law No. 13,709/2018 and applicable regulations.
+
+**1.8** "**Security Breach**" means any act or omission that compromises the security, confidentiality, integrity, or availability of End User Data or that compromises the physical, technical, administrative, or organizational safeguards put in place to protect it.
+
+**1.9** "**Standard Contractual Clauses (SCCs)**" means the relevant Data Protection Laws and Regulations' approved data transfer clauses.
+
+**1.10** "**Sub-Processor**" means any third party engaged by Trinsic to process personal data on behalf of the Customer in connection with the provision of the Services under this DPA.
+
+**1.11** "**Swiss DP Laws**" means the Federal Act on Data Protection of June 19, 1992 (as updated, amended and replaced from time to time), including all implementing ordinances. In this DPA, in circumstances where and solely to the extent that the Swiss DP Laws apply, references to the EU GDPR and its provisions shall be construed as references to the Swiss DP Laws and their corresponding provisions.
+
+**1.12** "**Transfer**" means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area (EEA), the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
+
+**1.13** "**UK GDPR**" means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions shall be construed as references to the UK GDPR and its corresponding provisions.
+
+**1.14** "**UK Addendum**" means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner's Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
+
+**1.15 Other Terms.** Terms such as "controller," "data subject," "personal data", "processor," and "processing" or similar terms shall be construed according to applicable Data Protection Laws and Regulations or, in the absence thereof, the EU GDPR.
+
+**1.16 Interpretation.** This DPA is incorporated by reference into, and forms part of the Main Agreement. Interpretations and defined terms set forth in the Main Agreement apply to the interpretation of this DPA.
+
+**1.17 Conflict.** In the case of conflict or ambiguity between: (a) any of the provisions of this DPA and the provisions of the Main Agreement, the provisions of this DPA will prevail; (b) any of the provisions of this DPA and any executed Standard Contractual Clauses, the provisions of the executed Standard Contractual Clauses will prevail; and (c) the LGPD (or regulations issued by ANPD) and this DPA, the legal provisions of LGPD and ANPD regulations shall prevail.
+
+**1.18 Scope.** Notwithstanding any term or condition of the DPA, the DPA does not apply to any End User Data or information that does not relate to one or more identifiable individuals, that has been aggregated or de-identified in accordance with Data Protection Laws and Regulations, or to the extent that Trinsic and Customer have entered separate data processing terms that address the subject matter hereof.
 
 ### 2. Processing of End User's Personal Information
 
@@ -85,7 +90,7 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 **6.2 Costs.** To the extent that a Security Breach was caused by Customer, Customer shall be responsible for the costs arising from Trinsic's provision of assistance under this section.
 
-### 7. Cross-Border Transfers for EU, UK, and Switzerland
+### 7. EU, UK, and Switzerland Requirements
 
 **7.1 GDPR Compliance.** In the event the End User Data is subject to the EU GDPR, UK GDPR, or the Swiss DP Laws, the terms of this Section 7 will apply.
 
@@ -130,7 +135,7 @@ This Data Processing Agreement is incorporated by reference into, and forms part
 
 **9.4 Scope of SCCs.** If Trinsic engages sub-processors located outside Brazil, it shall ensure that those sub-processors accede to the SCCs either through a "docking" mechanism (SCC Clause 9) or by signing equivalent contractual clauses approved by ANPD. Trinsic agrees that data subjects are third-party beneficiaries of the SCCs and can enforce their rights as provided therein. Customer acknowledges that Trinsic is acting at its direction, and that it remains ultimately responsible under LGPD for compliance, for responding to the ANPD, and for ensuring data subject rights are respected, even when the SCCs designate certain tasks to Trinsic.
 
-**9.5 Additional Measures.** In addition to the SCCs, Trinsic shall adopt any supplementary measures necessary to ensure that the transferred End User Data receives a level of protection essentially equivalent to that guaranteed by LGPD in Brazil. This may include technical protections, policy measures, or transparency measures as appropriate and as outlined in Annex C of this DPA. Trinsic will promptly inform Customer if it becomes aware of any legal barriers in the destination country that could prevent it from fulfilling its obligations under the SCCs or this DPA (for example, if local laws or government access requests risk a conflict with LGPD protections).
+**9.5 Additional Measures.** In addition to the SCCs, Trinsic shall adopt any supplementary measures necessary to ensure that the transferred End User Data receives a level of protection essentially equivalent to that guaranteed by LGPD in Brazil. This may include technical protections, policy measures, or transparency measures as appropriate, including the technical and organizational measures published at [trinsic.id/legal/online-toms](https://trinsic.id/legal/online-toms). Trinsic will promptly inform Customer if it becomes aware of any legal barriers in the destination country that could prevent it from fulfilling its obligations under the SCCs or this DPA (for example, if local laws or government access requests risk a conflict with LGPD protections).
 
 ### 10. Indemnification
 

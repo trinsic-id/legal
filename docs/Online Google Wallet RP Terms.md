@@ -8,15 +8,15 @@ You acknowledge that Trinsic is a duly authorized aggregator of the Specified Se
 
 ### 1. Definitions
 
-**1.1 Brand Features.** "**Brand Features**" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party.
+**1.1** "**Brand Features**" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party.
 
-**1.2 Product.** "**Product**" means your goods and/or services that legitimately require you to verify the age, identity, or credentials of your end users in order for your end users to access or use those goods and/or services.
+**1.2** "**Product**" means your goods and/or services that legitimately require you to verify the age, identity, or credentials of your end users in order for your end users to access or use those goods and/or services.
 
-**1.3 Relying Party.** "**Relying Party**" means the person or entity that accesses, uses, processes, and/or stores End User Data in order to verify user age, identity, or credentials.
+**1.3** "**Relying Party**" means the person or entity that accesses, uses, processes, and/or stores End User Data in order to verify user age, identity, or credentials.
 
-**1.4 End User Data.** "**End User Data**" means any personal data relating to an individual that is collected, processed, transmitted, stored, or returned through the Specified Service that could directly or indirectly identify that individual.
+**1.4** "**End User Data**" means any personal data relating to an individual that is collected, processed, transmitted, stored, or returned through the Specified Service that could directly or indirectly identify that individual.
 
-**1.5 Participation Requirements.** "**Participation Requirements**" means the administrative, technical, security, and other requirements specified by Trinsic that you must meet in order to access, use, process, and/or store End User Data including but not limited to the current set of requirements set forth in Section 3 of these Relying Party Terms, as they may be modified from time to time by Trinsic.
+**1.5** "**Participation Requirements**" means the administrative, technical, security, and other requirements specified by Trinsic that you must meet in order to access, use, process, and/or store End User Data including but not limited to the current set of requirements set forth in Section 3 of these Relying Party Terms, as they may be modified from time to time by Trinsic.
 
 ### 2. Term Acceptance
 
