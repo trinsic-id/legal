@@ -2,9 +2,11 @@
 
 *Last material update: June 12, 2026*
 
+`THESE RELYING PARTY TERMS APPLY TO YOUR ACCESS TO AND USE OF THE VERIFY WITH GOOGLE WALLET PROGRAM THROUGH OR IN CONNECTION WITH TRINSIC. THESE RELYING PARTY TERMS SUPPLEMENT ANY OTHER APPLICABLE TERMS OR AGREEMENTS IN PLACE BETWEEN YOU AND TRINSIC, INCLUDING THE GOOGLE WALLET ACTIVATION FORM, AND CONTROL YOUR RELATIONSHIP WITH TRINSIC AS IT RELATES TO THE SPECIFIED SERVICE.`
+
 These Trinsic Google Wallet Relying Party Terms of Service ("**Relying Party Terms**") form a legally binding contract between Trinsic, Inc. ("**Trinsic**" or "**Company**" or "**Aggregator**") and the party using the Verify with Google Wallet Program (the "**Specified Service**") through or in connection with Trinsic, as an aggregator, to verify user age, identity, or credentials (collectively, "you", "your", or the "**Relying Party**," as further defined below). By accessing, using, processing, and/or storing End User Data (defined below) in connection with the Specified Service, you are agreeing to these Relying Party Terms. These Relying Party Terms are effective as of the date you electronically accept these Terms (the "**Effective Date**").
 
-You acknowledge that Trinsic is a duly authorized aggregator of the Specified Service and that Trinsic has been granted rights by Google to facilitate the licensing and authorization of the Specified Service subject to, without limitation, the terms provided herein. You agree to comply with these Relying Party Terms and that the Relying Party Terms control your relationship with Trinsic as it relates to the Specified Service, in addition to any other applicable terms or agreements in place between you and Trinsic, including but not limited to the Google Wallet Activation Form ("**Activation Form**") (collectively with these Relying Party Terms, the "**Terms**").
+You acknowledge that Trinsic is a duly authorized aggregator of the Specified Service and that Trinsic has been granted rights by Google to facilitate the licensing and authorization of the Specified Service subject to, without limitation, the terms provided herein. These Relying Party Terms, together with the Google Wallet Activation Form ("**Activation Form**"), are collectively referred to as the "**Terms**".
 
 ### 1. Definitions
 
