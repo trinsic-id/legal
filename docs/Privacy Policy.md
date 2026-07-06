@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last material update: June 12, 2026*
+*Last material update: July 6, 2026*
 
 The website [https://trinsic.id/](https://trinsic.id/) (the "**Site**") and the available software and platform accessible through the Site (the "**Application**") are owned and operated by Trinsic Technologies, Inc, a Delaware corporation ("**Trinsic**", or "**Company**") headquartered in Salt Lake City, Utah.
 
