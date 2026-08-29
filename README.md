@@ -9,6 +9,7 @@ The Markdown files in this repository are the **source of truth** for these docu
 | Document                                                     | Slug | Description                                                  |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | [Terms of Service](docs/Terms%20of%20Service.md)             | [`/legal/terms-of-service`](https://trinsic.id/legal/terms-of-service) | Governs use of Trinsic's website, platform, and APIs         |
+| [Acceptance Tester Terms](docs/Acceptance%20Tester%20Terms.md) | [`/legal/acceptance-tester-terms`](https://trinsic.id/legal/acceptance-tester-terms) | Governs participation in Trinsic's acceptance testing program |
 | [Privacy Policy](docs/Privacy%20Policy.md)                   | [`/legal/privacy-policy`](https://trinsic.id/legal/privacy-policy) | How Trinsic collects, uses, and protects personal data       |
 | [Cookie Policy](docs/Cookie%20Policy.md)                     | [`/legal/cookie-policy`](https://trinsic.id/legal/cookie-policy) | Use of cookies and similar technologies on Trinsic's website and platform |
 | [Online Data Processing Agreement](docs/Online%20DPA.md)     | [`/legal/online-dpa`](https://trinsic.id/legal/online-dpa) | Data Processing Agreement for customers using Trinsic's services |
