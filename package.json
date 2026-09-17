@@ -1,0 +1,16 @@
+{
+  "name": "trinsic-legal",
+  "private": true,
+  "type": "module",
+  "description": "Syncs docs/ to the trinsic.id legal pages",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node scripts/sync-to-framer.mjs --check",
+    "sync": "node scripts/sync-to-framer.mjs"
+  },
+  "dependencies": {
+    "framer-api": "5.0.0"
+  }
+}
