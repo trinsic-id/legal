@@ -12,7 +12,7 @@ The Markdown files in this repository are the **source of truth** for these docu
 | [Acceptance Tester Terms](docs/Acceptance%20Tester%20Terms.md) | [`/legal/acceptance-tester-terms`](https://trinsic.id/legal/acceptance-tester-terms) | Governs participation in Trinsic's acceptance testing program |
 | [Privacy Policy](docs/Privacy%20Policy.md)                   | [`/legal/privacy-policy`](https://trinsic.id/legal/privacy-policy) | How Trinsic collects, uses, and protects personal data       |
 | [Cookie Policy](docs/Cookie%20Policy.md)                     | [`/legal/cookie-policy`](https://trinsic.id/legal/cookie-policy) | Use of cookies and similar technologies on Trinsic's website and platform |
-| [Online Data Processing Agreement](docs/Online%20DPA.md)     | [`/legal/online-dpa`](https://trinsic.id/legal/online-dpa) | Data Processing Agreement for customers using Trinsic's services |
+| [Online Data Processing Agreement](docs/online-dpa.md)     | [`/legal/online-dpa`](https://trinsic.id/legal/online-dpa) | Data Processing Agreement for customers using Trinsic's services |
 | [Technical and Organizational Measures](docs/Online%20TOMs.md) | [`/legal/online-toms`](https://trinsic.id/legal/online-toms) | Technical and Organizational Measures for data protection    |
 | [List of Sub-Processors](docs/Online%20Subprocessor%20Disclosure.md) | [`/legal/online-subprocessor-disclosure`](https://trinsic.id/legal/online-subprocessor-disclosure) | Current list of sub-processors engaged by Trinsic            |
 | [Google Wallet Relying Party Terms](docs/Online%20Google%20Wallet%20RP%20Terms.md) | [`/legal/online-google-wallet-rp-terms`](https://trinsic.id/legal/online-google-wallet-rp-terms) | Terms for relying parties using Verify with Google Wallet through Trinsic |
@@ -26,7 +26,9 @@ The Markdown files in this repository are the **source of truth** for these docu
 
 Pull requests are welcome — to fix typos and formatting errors, or to suggest changes to the substance of a document.
 
-Because these are legal documents, **every contribution is reviewed by Trinsic's legal team before it is merged.** A merged change takes effect only once the document is republished on the website, and material changes will be reflected in the document's *Last material update* date.
+Because these are legal documents, **every contribution is reviewed by Trinsic's legal team before it is merged.** A merged change is copied to the website's content system automatically (see [`.github/workflows/sync-to-framer.yml`](.github/workflows/sync-to-framer.yml)) and takes effect once the website is next published. Material changes will be reflected in the document's *Last material update* date.
+
+Every document must start with its title (`# Title`) followed by its `*Last material update: Month D, YYYY*` line; pull requests are checked for this. The file name sets the web address: `Terms of Service.md` is published at `/legal/terms-of-service`, so renaming a file changes its URL.
 
 ## Questions
 

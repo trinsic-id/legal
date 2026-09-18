@@ -1,0 +1,50 @@
+# Keeps trinsic.id/legal in step with docs/. Every pull request is checked;
+# every merge to main writes the documents to the Framer CMS. The website
+# picks up the change on its next publish.
+name: Sync to website CMS
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/sync-to-framer.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+      - run: node scripts/sync-to-framer.mjs --check
+
+  sync:
+    if: github.event_name != 'pull_request'
+    needs: check
+    runs-on: ubuntu-latest
+    # The Framer key lives only in this environment, which is limited to main.
+    environment: framer
+    concurrency:
+      group: framer-legal-sync
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: node scripts/sync-to-framer.mjs
+        env:
+          FRAMER_PROJECT_URL: https://framer.com/projects/Trinsic-Website--1eiVAVwe5htyzbVfrVKO
+          FRAMER_API_KEY: ${{ secrets.FRAMER_API_KEY }}
