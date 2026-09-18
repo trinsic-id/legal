@@ -1,4 +1,4 @@
-# ConnectID End-User Terms
+# ConnectID End-User Terms of Service
 
 *Last material update: September 14, 2026*
 
