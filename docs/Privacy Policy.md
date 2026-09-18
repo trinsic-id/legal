@@ -84,7 +84,7 @@ Additionally, in the context of providing the Services to our customers, we may 
 
 **7.1 Protective Measures.** Company takes appropriate measures, including administrative, technical, and physical safeguards, to (i) protect personal information from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction, (ii) ensure the security, confidentiality, and integrity of the personal information, (iii) protect against any anticipated threats or hazards to the security or integrity of the personal information, (iv) protect against unauthorized access to, or unauthorized use or disclosure of, the personal information, and (v) take such security measures required by any applicable privacy laws.
 
-**7.2 Third Party Partners and Employees.** Company may, by itself or using third-party service providers, hold, process and store personal information, including in the United States, Japan, the European Union and other countries. Company restricts access to personal information to those employees, contractors, and agents who need to know that information for purposes of performing their obligations to Company or to you, and who are subject to contractual confidentiality obligations, and who may be disciplined or terminated if they fail to meet these obligations. Company third-party service providers store and transmit personal information in compliance with appropriate confidentiality and security measures.
+**7.2 Third Party Partners and Employees.** Company may, by itself or using third-party service providers, hold, process and store personal information, including in the United States, United Kingdom, Japan, European Union member states, Australia, India, and other countries. Company restricts access to personal information to those employees, contractors, and agents who need to know that information for purposes of performing their obligations to Company or to you, and who are subject to contractual confidentiality obligations, and who may be disciplined or terminated if they fail to meet these obligations. Company third-party service providers store and transmit personal information in compliance with appropriate confidentiality and security measures.
 
 **7.3 Security Breach.** We maintain sufficient technical safeguards to protect the security, integrity and privacy of your personal information. However, no method of internet transmission or electronic storage is 100% secure or error-free, so it is never possible to guarantee absolute security. If required by law, and in the event of a high risk to your personal data, Company shall give prompt notice to you of any unauthorized access to personal information and shall immediately commence a thorough investigation into any such incident.
 
@@ -185,6 +185,14 @@ We do not sell or share personal information for third-party direct marketing pu
 
 **12.3 Notice to Utah Residents.** We do not disclose your personal information to any third party for such third party's direct marketing purposes.
 
-### 13. Changes to This Privacy Policy
+### 13. Notice to Individuals in Australia
+
+If you are in Australia, Trinsic handles your personal information in accordance with the Privacy Act 1988 (Cth) and the Australian Privacy Principles ("**APPs**"), where applicable.
+
+You may request access to, or correction of, personal information held by Trinsic by contacting [legal@trinsic.id](mailto:legal@trinsic.id).
+
+If you have a complaint about how Trinsic handles your personal information or believe Trinsic has breached the APPs, please contact [legal@trinsic.id](mailto:legal@trinsic.id). We will acknowledge your inquiry and investigate your complaint promptly. If you are not satisfied with our response, you may lodge a complaint with the Office of the Australian Information Commissioner ("**OAIC**") at [https://www.oaic.gov.au/](https://www.oaic.gov.au/).
+
+### 14. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. If we make material changes, we will notify you by posting the updated Policy on our website and, where required by law, by sending a notice to your registered email address (if provided). Changes will become effective fifteen (15) days after posting or immediately for new Users. Your continued use of the Services after the effective date constitutes acceptance of the updated Policy.
