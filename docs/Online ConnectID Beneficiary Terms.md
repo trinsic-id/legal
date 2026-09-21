@@ -1,4 +1,4 @@
-# Online ConnectID Beneficiary Terms
+# ConnectID Beneficiary Terms of Service
 
 *Last material update: September 21, 2026*
 
