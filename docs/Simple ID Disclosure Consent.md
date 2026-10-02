@@ -8,7 +8,7 @@ RaonSecure Co., Ltd. provides the following information to SK Telecom Co., Ltd.,
 
 ### A Person Who Gives and Receives Personal Information
 
-A virtual mobile communication network operator that provides independent mobile communication services by leasing mobile phone networks of SK Telecom, KT, LG Uplus, and mobile carriers.
+SK Telecom Co., Ltd., KT Corporation, LG Uplus Corp., and mobile virtual network operators (MVNOs) that lease mobile network infrastructure from mobile carriers to offer independent mobile communication services.
 
 ### Purpose of Using Personal Information by a Person Who Sends and Receives Personal Information
 
@@ -30,8 +30,8 @@ You may not agree to the provision and use of the personal information above, an
 
 - RaonSecure Co., Ltd.: [www.raonsecure.com](https://www.raonsecure.com)
 - SK Telecom Co., Ltd.: [www.sktelecom.com](https://www.sktelecom.com)
-- KT Co., Ltd.: [www.kt.com](https://www.kt.com)
-- LG Uplus Co., Ltd.: [www.uplus.co.kr](https://www.uplus.co.kr)
+- KT Corporation: [www.kt.com](https://www.kt.com)
+- LG Uplus Corp.: [www.uplus.co.kr](https://www.uplus.co.kr)
 
 I am familiar with the above and agree to this.
 
