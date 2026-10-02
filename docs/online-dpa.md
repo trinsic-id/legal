@@ -12,7 +12,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 
 **1.1** “**Business Purpose**” means the Services as described in the Main Agreement and any additional purposes set forth in Annex A.
 
-**1.2** “**CCPA**” means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act, and its implementing regulations as amended by the California Privacy Rights Act of 2020 (“**CPRA**”).
+**1.2** “**CCPA**” means the California Consumer Privacy Act, Cal. Civ. Code § 1798.100 et seq., as amended by the California Privacy Rights Act of 2020 (“**CPRA**”), and its implementing regulations.
 
 **1.3** “**Data Protection Laws and Regulations**” means all laws and regulations applicable to the processing of End User Data under the Main Agreement, including those of the European Union, the European Economic Area and their member states, Switzerland, the United Kingdom, Brazil, and the United States and its states, and where applicable, the guidance and codes of practice issued by regulatory bodies in any relevant jurisdiction.
 
@@ -34,7 +34,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 
 **1.12** “**Transfer**” means any transmission, access, or other form of processing of End User Data to a country outside the European Economic Area, the United Kingdom, and/or Switzerland that is not the subject of an adequacy decision under the relevant Data Protection Laws and Regulations.
 
-**1.13** “**UK GDPR**” means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018, the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions will be construed as references to the UK GDPR and its corresponding provisions.
+**1.13** “**UK GDPR**” means the EU GDPR as transposed into United Kingdom national law by operation of section 3 of the European Union (Withdrawal) Act 2018 and as amended by the Data Protection, Privacy and Electronic Communications (Amendments etc.) (EU Exit) Regulations 2019, together with the Data Protection Act 2018 and other data protection or privacy legislation in force from time to time in the United Kingdom. In this DPA, in circumstances where and solely to the extent that the UK GDPR applies, references to the EU GDPR and its provisions will be construed as references to the UK GDPR and its corresponding provisions.
 
 **1.14** “**UK Addendum**” means the International Data Transfer Addendum (version B1.0) issued by the Information Commissioner’s Office under S119(A) of the UK Data Protection Act 2018, as updated or amended from time to time.
 
@@ -118,7 +118,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 
 **9.2 Lawfulness of Data and Instructions.** Customer shall ensure that all End User Data provided to Company has been collected and will be processed by Company in compliance with the LGPD and other applicable laws, including that a valid legal basis (as per LGPD Article 7 or other applicable provisions) has been established.
 
-**9.3 Onward Transfers.** Company shall not transfer or disclose End User Data to any third party except authorized Sub-Processors, or as may be required by law, without Customer’s instruction or consent. The parties agree that any cross-border transfer of End User Data from Brazil to another country will be governed by an approved transfer mechanism under LGPD Article 33, namely: (i) an adequacy decision by ANPD recognizing the destination country as having an adequate level of protection under LGPD Article 33(I), or (ii) the SCCs attached hereto as Annex B which, if relied on as the approved transfer mechanism, form an integral part of this DPA. In accordance with ANPD Resolution CD/ANPD No. 4/2023 and the ANPD’s International Transfer Regulation, the SCCs shall be executed without modification.
+**9.3 Onward Transfers.** Company shall not transfer or disclose End User Data to any third party except authorized Sub-Processors, or as may be required by law, without Customer’s instruction or consent. The parties agree that any cross-border transfer of End User Data from Brazil to another country will be governed by an approved transfer mechanism under LGPD Article 33, namely: (i) an adequacy decision by ANPD recognizing the destination country as having an adequate level of protection under LGPD Article 33(I), or (ii) the SCCs attached hereto as Annex B which, if relied on as the approved transfer mechanism, form an integral part of this DPA. In accordance with the International Data Transfer Regulation approved by ANPD Resolution CD/ANPD No. 19 of August 23, 2024, the SCCs shall be executed without modification.
 
 **9.4 Scope of SCCs.** If Company engages Sub-Processors located outside Brazil, it shall ensure that those Sub-Processors accede to the SCCs either through a docking mechanism under SCC Clause 9 or by signing equivalent contractual clauses approved by ANPD. Company agrees that data subjects are third-party beneficiaries of the SCCs and can enforce their rights as provided therein. Customer acknowledges that Company is acting at its direction, and that it remains ultimately responsible under LGPD for compliance, for responding to ANPD, and for ensuring data subject rights are respected, even when the SCCs designate certain tasks to Company.
 
@@ -160,7 +160,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 | Nature and purpose of processing | Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely to verify and/or enrich the personal data transferred to Company using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data. |
 | Frequency of processing          | Continuous                                                   |
 | Duration of processing           | Personal data will be retained in accordance with Company’s retention policies, which are configured by Customer through Company’s Services, and in any case for only as long as is required to meet Company’s legal, regulatory and operational requirements and as necessary to perform services. |
-| Competent supervisory authority  | The competent supervisory authority or authorities applicable to Data Exporter as notified to Data Importer in accordance with Section 11. |
+| Competent supervisory authority  | The competent supervisory authority or authorities applicable to Data Exporter as notified to Data Importer in accordance with Section 13. |
 
 **1.4 Customer as Processor.** The following table applies if Customer is a data processor.
 
@@ -174,7 +174,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 | Nature and purpose of processing | Data is processed solely to deliver the Services contemplated in the Main Agreement and any Order, namely to verify and/or enrich the personal data transferred to Company using an ID Provider. Processing may include transfer, transformation, storage, and deletion of data. |
 | Frequency of processing          | Continuous                                                   |
 | Duration of processing           | Personal data will be retained in accordance with Company’s retention policies, which are configured by Customer through Company’s Services, and in any case for only as long as is required to meet Company’s legal, regulatory and operational requirements and as necessary to perform services. |
-| Competent supervisory authority  | The competent supervisory authority or authorities applicable to Data Exporter as notified to Data Importer in accordance with Section 11. |
+| Competent supervisory authority  | The competent supervisory authority or authorities applicable to Data Exporter as notified to Data Importer in accordance with Section 13. |
 
 ## Annex B — LGPD Standard Contractual Clauses
 

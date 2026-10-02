@@ -2,7 +2,7 @@
 
 *Last material update: July 6, 2026*
 
-The website [https://trinsic.id/](https://trinsic.id/) (the "**Site**") and the available software and platform accessible through the Site (the "**Application**") are owned and operated by Trinsic Technologies, Inc, a Delaware corporation ("**Trinsic**", or "**Company**") headquartered in Salt Lake City, Utah.
+The website [https://trinsic.id/](https://trinsic.id/) (the "**Site**") and the available software and platform accessible through the Site (the "**Application**") are owned and operated by Trinsic Technologies, Inc., a Delaware corporation ("**Trinsic**", or "**Company**") headquartered in Salt Lake City, Utah.
 
 ### 1. Introduction
 
@@ -24,7 +24,7 @@ Additionally, in the context of providing the Services to our customers, we may 
 
 **3.2 Device and Network Information.** Company may access, collect, monitor, and/or remotely store information about your device or connection when you access any Services, including hardware model, operating system and version, unique device identifier, mobile network or internet service provider network information, and information about the device's interaction with the Services.
 
-**3.3 Payment Information.** Company utilizes one or more third-party service providers to process payments through the Service, and this may include the collection of information in connection with you making, accepting, requesting or recording payments, credits or money transfers through any Services, including payment card numbers, bank accounts information, when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions. Your use of a third-party payment provider will be governed by that provider's Terms and Privacy Policy, which are referenced in the payment interface.
+**3.3 Payment Information.** Company utilizes one or more third-party service providers to process payments through the Service, and this may include the collection of information in connection with you making, accepting, requesting or recording payments, credits or money transfers through any Services, including payment card numbers, bank account information, when and where the transactions occur, the names of the transacting parties, a description of the transactions, the payment or transfer amounts, billing and shipping information, and the devices and payment methods used to complete the transactions. Your use of a third-party payment provider will be governed by that provider's Terms and Privacy Policy, which are referenced in the payment interface.
 
 **3.4 Usage Information.** Company may collect information and data about how you use the Services, including access time, Services accessed, browser type and language, Internet Protocol ("**IP**") address, webpages and applications viewed and used, time spent on webpages and applications, links clicked, and conversion information (e.g., transactions entered into). For more details on how we use cookies and similar technologies, please refer to our [Cookie Policy](https://trinsic.id/legal/cookie-policy).
 
@@ -36,7 +36,7 @@ Additionally, in the context of providing the Services to our customers, we may 
 
 **4.1 Given by You.** You provide certain personal information when you register for your account with the Services, as you use the Services, as you engage with Company through its Services, or as you engage with Trinsic as Customer Representative.
 
-**4.2 From Third Parties.** Personal information may be provided to us by third parties that already have access to certain of your personal information, including third-party verification services, mailing list providers, and publicly available sources. Personal information may also include your data and content contained within a third-party service links or integrates with the Services. This Privacy Policy does not apply to, and Company is not responsible for, third-party cookies, web beacons, or other tracking technologies, which are covered by such third parties' privacy policies. Company continually evaluates analytics services to use in addition to its own, and Company may update this policy in the future to reflect Company's ongoing use of said services.
+**4.2 From Third Parties.** Personal information may be provided to us by third parties that already have access to certain of your personal information, including third-party verification services, mailing list providers, and publicly available sources. Personal information may also include your data and content contained within a third-party service that links or integrates with the Services. This Privacy Policy does not apply to, and Company is not responsible for, third-party cookies, web beacons, or other tracking technologies, which are covered by such third parties' privacy policies. Company continually evaluates analytics services to use in addition to its own, and Company may update this policy in the future to reflect Company's ongoing use of said services.
 
 **4.3 Given by Our Customer.** When we enter into an agreement with our customer, they may provide us with some of your personal information, if you are acting as their Customer Representative.
 
@@ -116,7 +116,7 @@ In addition, this policy shall not apply to (i) any ideas for new products or mo
 
 **11.1 General Information.** Trinsic recognizes the importance of protecting the privacy of our customers and the Users of the Services. As such, we will always ensure that we have a lawful basis for processing your personal information, in accordance with the GDPR, the UK GDPR, and any other applicable legislation. The data controller for all personal information collected from individuals in the EEA or the United Kingdom is:
 
-- Trinsic Technologies Inc.
+- Trinsic Technologies, Inc.
 - 2261 Market Street #4395
 - San Francisco, CA 94114
 
