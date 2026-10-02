@@ -48,14 +48,17 @@ function plainText(html) {
 
 // Upserts every doc into the collection by slug, removes items whose file is gone,
 // and reads the result back. Safe to re-run: the Framer API is not transactional.
-export async function syncLegal(framer, docs, { collectionName = "Legal" } = {}) {
-    const collection = (await framer.getCollections()).find((c) => c.name === collectionName)
-    if (!collection) throw new Error(`Framer collection "${collectionName}" not found`)
+// The collection is found by its id, so renaming it in Framer does not break the sync; the name is a fallback.
+export async function syncLegal(framer, docs, { collectionId = "x7LUTnQfK", collectionName = "Legal" } = {}) {
+    const collections = await framer.getCollections()
+    const collection =
+        collections.find((c) => c.id === collectionId) ?? collections.find((c) => c.name === collectionName)
+    if (!collection) throw new Error(`Framer collection ${collectionId} ("${collectionName}") not found`)
 
     const fields = await collection.getFields()
     const fieldId = (name) => {
         const field = fields.find((f) => f.name === name)
-        if (!field) throw new Error(`Framer collection "${collectionName}" has no "${name}" field`)
+        if (!field) throw new Error(`Framer collection "${collection.name}" has no "${name}" field`)
         return field.id
     }
     const titleId = fieldId("Title")
