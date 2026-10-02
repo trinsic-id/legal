@@ -249,7 +249,7 @@ The capitalized terms used in this DPA have the meanings set forth in this Secti
 
 ### 2. Mandatory Clauses
 
-**2.1 Incorporation.** The parties hereby incorporate by reference Clauses 5–22 of the most recent English-language Brazilian Standard Contractual Clauses for International Transfers, as published and updated from time to time on the Brazilian National Data Protection Authority’s [International Affairs webpage](https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs) or its successor, which will form an integral, binding, and prevailing part of this DPA without further action by the parties.
+**2.1 Incorporation.** The parties hereby incorporate by reference Clauses 5–24 of the most recent English-language Brazilian Standard Contractual Clauses for International Transfers, as published and updated from time to time on the Brazilian National Data Protection Authority’s [International Affairs webpage](https://www.gov.br/anpd/pt-br/assuntos/assuntos-internacionais/international-affairs) or its successor, which will form an integral, binding, and prevailing part of this DPA without further action by the parties.
 
 ### 3. Security Measures
 
