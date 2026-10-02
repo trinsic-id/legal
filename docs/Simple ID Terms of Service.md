@@ -16,9 +16,9 @@ The term “**Simple Identity Verification Service**” means a service that ena
 
 The term “**User**” means an individual who owns a mobile phone registered under their name with a telecommunications carrier, provides their Personal Information to the Company and such telecommunications carrier(s) for the purpose of using the Service, and seeks to verify the ownership of a device. For the avoidance of doubt, individuals using corporate mobile phones or prepaid mobile phones (including those provided by prepaid mobile virtual network operators) without registered personal information shall be excluded.
 
-“**Personal Information**” refers to the information of the “User” necessary for identification, such as the date of birth, gender, name, internal/foreigner, mobile phone number, and carrier entered by the “User”.
+“**Personal Information**” refers to the information of the “User” necessary for identification, such as the date of birth, gender, name, Korean national or foreign national status, mobile phone number, and carrier entered by the “User”.
 
-The term “**Mobile Carrier**” refers to an institution that exchanges subscriber information such as SK Telecom Co., KT Co., LG Uplus Co., and virtual mobile network operators that provide independent mobile communication services by leasing mobile phone networks of mobile carriers to confirm the device’s occupation and name.
+The term “**Mobile Carrier**” refers to an institution that exchanges subscriber information, such as SK Telecom Co., Ltd., KT Corporation, LG Uplus Corp., and mobile virtual network operators that provide independent mobile communication services by leasing the mobile phone networks of mobile carriers, to confirm possession of the device and the identity of its registered subscriber.
 
 The term “**Relying Party**” refers to an institution that provides information using the Internet or mediates the provision of information through a contract with a “Company” and exchanges “Personal Information” about “Users”.
 
@@ -34,13 +34,13 @@ The “User” is not responsible for any damages and damages caused by not know
 
 ### 4. External Rules
 
-Matters not specified in these Terms and Conditions shall be subject to other relevant laws and regulations, such as the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., and the Personal Information Protection Act.
+Matters not specified in these Terms and Conditions shall be subject to other relevant laws and regulations, such as the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., and the Personal Information Protection Act, or to commercial practice.
 
 ### 5. Application and Termination of Service Use
 
 Users will be able to subscribe to the use if they do the following: (a) when the “User” presses or checks the “Agree” button on the contents of these terms and conditions disclosed when using the “Service”; (b) other applications made by a separate method set by the “Relying Party”.
 
-“Users” who have been registered for use will remain in effect until the service is terminated.
+For a “User” whose registration for use has been completed, consent to these Terms and Conditions remains in effect until the use of the “Service” is terminated.
 
 A “User” who wants to terminate the use of the “Service” may stop using the “Service” through the following actions: (a) in the case of completing the application for termination through the service termination menu provided by the “Relying Party”; (b) other applications made by a separate method set by the “Relying Party”.
 
