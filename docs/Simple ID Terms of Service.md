@@ -30,7 +30,7 @@ These terms and conditions will take effect by posting to the “User” on the 
 
 The “Company” may revise the contents of these Terms and Conditions to the extent that they do not violate the Act on the Regulation of Terms and Conditions and other relevant Acts and subordinate statutes, and if any changes are made, it will be notified in the same manner as in Paragraph 1. However, important matters concerning the rights and obligations of the “User” will be announced 15 days before the enforcement of the changed contents.
 
-The “User” is not responsible for any damages and damages caused by not knowing the contents of the changed terms and conditions.
+The “Company” is not responsible for any loss or damage arising from the “User” not being aware of the amended terms and conditions.
 
 ### 4. External Rules
 
