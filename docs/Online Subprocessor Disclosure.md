@@ -1,6 +1,6 @@
 # List of Sub-Processors
 
-*Last material update: June 12, 2026*
+*Last material update: October 16, 2026*
 
 To support delivery of our Services, Trinsic (or one of its Affiliates listed below), may engage and use Sub-Processors. Prior to engaging any Sub-Processors, Trinsic performs diligence to evaluate their privacy, security, and confidentiality practices, and executes all appropriate agreements.
 
@@ -25,3 +25,4 @@ Trinsic may also engage its Affiliate(s) listed below as a Sub-Processor to deli
 | --- | --- | --- |
 | Trinsic Europe Ltd. | Fourth Floor St James House, St James' Square, Cheltenham, England, GL50 3PR | United Kingdom |
 | Trinsic Technologies EU B.V. | Vlierweg 12, 1032 LG Amsterdam | Netherlands |
+| Trinsic Technologies Australia Pty Ltd | Office 4, 20 Welch Street, Southport QLD 4215, Australia | Australia |
